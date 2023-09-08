@@ -1,0 +1,3494 @@
+{
+    "top-deals": {
+        "status": "OK",
+        "products": [
+            {
+                "store_availability": [
+                    {
+                        "tab_type": "standard",
+                        "pstat": "O",
+                        "availability_info_id": "1.1",
+                        "store_id": "1"
+                    },
+                    {
+                        "tab_type": "standard",
+                        "pstat": "A",
+                        "availability_info_id": "3630.1",
+                        "store_id": "3630"
+                    },
+                    {
+                        "tab_type": "express",
+                        "pstat": "A",
+                        "availability_info_id": "9908.57",
+                        "store_id": "9908"
+                    },
+                    {
+                        "tab_type": "standard",
+                        "pstat": "A",
+                        "availability_info_id": "9409.1",
+                        "store_id": "9409"
+                    },
+                    {
+                        "tab_type": "standard",
+                        "pstat": "O",
+                        "availability_info_id": "9485.1",
+                        "store_id": "9485"
+                    }
+                ],
+                "llc_n": "Cucumber & Capsicum",
+                "sp": "20.50",
+                "base_unit": "g",
+                "pop_rank": 0,
+                "all_prods": [
+                    {
+                        "store_availability": [
+                            {
+                                "tab_type": "standard",
+                                "pstat": "O",
+                                "availability_info_id": "1.1",
+                                "store_id": "1"
+                            },
+                            {
+                                "tab_type": "standard",
+                                "pstat": "A",
+                                "availability_info_id": "3630.1",
+                                "store_id": "3630"
+                            },
+                            {
+                                "tab_type": "express",
+                                "pstat": "A",
+                                "availability_info_id": "9908.57",
+                                "store_id": "9908"
+                            },
+                            {
+                                "tab_type": "standard",
+                                "pstat": "A",
+                                "availability_info_id": "9409.1",
+                                "store_id": "9409"
+                            },
+                            {
+                                "tab_type": "standard",
+                                "pstat": "O",
+                                "availability_info_id": "9485.1",
+                                "store_id": "9485"
+                            },
+                            {
+                                "tab_type": "standard",
+                                "pstat": "O",
+                                "availability_info_id": "6655.1",
+                                "store_id": "6655"
+                            }
+                        ],
+                        "llc_n": "Cucumber & Capsicum",
+                        "sp": "41.00",
+                        "base_unit": "kg",
+                        "pop_rank": 0,
+                        "gift_msg": "",
+                        "is_new": false,
+                        "pack_desc": "",
+                        "p_type": "veg",
+                        "combo_skus": [],
+                        "attrs": {},
+                        "store_ids": [],
+                        "llc_s": "type=pc&slug=cucumber-capsicum",
+                        "j_offer_detail": {
+                            "d_avail": "true",
+                            "d_text": "28% OFF",
+                            "offer_entry_text": "Har Din Sasta!",
+                            "offer_comm_enabled": "true",
+                            "offer_available": "true",
+                            "sec_price": {},
+                            "icon": {}
+                        },
+                        "sale_info": {},
+                        "sku": 10000067,
+                        "es_percent": 0,
+                        "tlc_s": "fruits-vegetables",
+                        "offer_score": 0,
+                        "p_img_url": "https://www.bigbasket.com/media/uploads/p/s/10000067_23-fresho-capsicum-green.jpg",
+                        "absolute_url": "/pd/10000067/fresho-capsicum-green-1-kg/",
+                        "display_order": 0,
+                        "dis_val": "28",
+                        "mrp": "57.00",
+                        "p_brand": "Fresho",
+                        "additional_info": {
+                            "per_unit_pack_selector": false,
+                            "per_unit_pd_page": true,
+                            "per_unit_listing_page": false,
+                            "other_app_listing": false,
+                            "other_app_pd": false
+                        },
+                        "dis_t": "P",
+                        "rating_info": {
+                            "sku_id": 10000067
+                        },
+                        "es_amt": 0,
+                        "w": "1 kg",
+                        "usp": null,
+                        "pc_n": "Cucumber & Capsicum",
+                        "tlc_n": "Fruits & Vegetables",
+                        "p_promo_info": {},
+                        "is_bby": null,
+                        "p_desc": "Capsicum - Green (Loose)",
+                        "base_price": "41.00"
+                    },
+                    {
+                        "store_availability": [
+                            {
+                                "tab_type": "standard",
+                                "pstat": "O",
+                                "availability_info_id": "1.1",
+                                "store_id": "1"
+                            },
+                            {
+                                "tab_type": "standard",
+                                "pstat": "A",
+                                "availability_info_id": "3630.1",
+                                "store_id": "3630"
+                            },
+                            {
+                                "tab_type": "express",
+                                "pstat": "A",
+                                "availability_info_id": "9908.57",
+                                "store_id": "9908"
+                            },
+                            {
+                                "tab_type": "standard",
+                                "pstat": "O",
+                                "availability_info_id": "9485.1",
+                                "store_id": "9485"
+                            }
+                        ],
+                        "llc_n": "Cucumber & Capsicum",
+                        "sp": "10.50",
+                        "base_unit": "g",
+                        "pop_rank": 0,
+                        "gift_msg": "",
+                        "is_new": false,
+                        "pack_desc": "",
+                        "p_type": "veg",
+                        "combo_skus": [],
+                        "attrs": {},
+                        "store_ids": [],
+                        "llc_s": "type=pc&slug=cucumber-capsicum",
+                        "j_offer_detail": {
+                            "d_avail": "true",
+                            "d_text": "34% OFF",
+                            "offer_entry_text": "Har Din Sasta!",
+                            "offer_comm_enabled": "true",
+                            "offer_available": "true",
+                            "sec_price": {},
+                            "icon": {}
+                        },
+                        "sale_info": {},
+                        "sku": 10000068,
+                        "es_percent": 0,
+                        "tlc_s": "fruits-vegetables",
+                        "offer_score": 0,
+                        "p_img_url": "https://www.bigbasket.com/media/uploads/p/s/10000068_22-fresho-capsicum-green.jpg",
+                        "absolute_url": "/pd/10000068/fresho-capsicum-green-250-g/",
+                        "display_order": 0,
+                        "dis_val": "34",
+                        "mrp": "16.00",
+                        "p_brand": "Fresho",
+                        "additional_info": {
+                            "per_unit_pack_selector": false,
+                            "per_unit_pd_page": true,
+                            "per_unit_listing_page": false,
+                            "other_app_listing": false,
+                            "other_app_pd": false
+                        },
+                        "dis_t": "P",
+                        "rating_info": {
+                            "sku_id": 10000067
+                        },
+                        "es_amt": 0,
+                        "w": "250 g",
+                        "usp": null,
+                        "pc_n": "Cucumber & Capsicum",
+                        "tlc_n": "Fruits & Vegetables",
+                        "p_promo_info": {},
+                        "is_bby": null,
+                        "p_desc": "Capsicum - Green (Loose)",
+                        "base_price": "0.04"
+                    },
+                    {
+                        "store_availability": [
+                            {
+                                "tab_type": "standard",
+                                "pstat": "O",
+                                "availability_info_id": "1.1",
+                                "store_id": "1"
+                            },
+                            {
+                                "tab_type": "standard",
+                                "pstat": "A",
+                                "availability_info_id": "3630.1",
+                                "store_id": "3630"
+                            },
+                            {
+                                "tab_type": "express",
+                                "pstat": "A",
+                                "availability_info_id": "9908.57",
+                                "store_id": "9908"
+                            },
+                            {
+                                "tab_type": "standard",
+                                "pstat": "A",
+                                "availability_info_id": "9409.1",
+                                "store_id": "9409"
+                            },
+                            {
+                                "tab_type": "standard",
+                                "pstat": "O",
+                                "availability_info_id": "9485.1",
+                                "store_id": "9485"
+                            }
+                        ],
+                        "llc_n": "Cucumber & Capsicum",
+                        "dis_t": "P",
+                        "pop_rank": 0,
+                        "is_new": false,
+                        "pack_desc": "",
+                        "p_type": "veg",
+                        "attrs": {},
+                        "llc_s": "type=pc&slug=cucumber-capsicum",
+                        "sku": 10000069,
+                        "base_unit": "g",
+                        "tlc_s": "fruits-vegetables",
+                        "p_img_url": "https://www.bigbasket.com/media/uploads/p/s/10000069_20-fresho-capsicum-green.jpg",
+                        "p_brand": "Fresho",
+                        "j_offer_detail": {
+                            "d_avail": "true",
+                            "d_text": "29% OFF",
+                            "offer_entry_text": "Har Din Sasta!",
+                            "offer_available": "true",
+                            "offer_comm_enabled": "true",
+                            "sec_price": {},
+                            "icon": {}
+                        },
+                        "es_percent": 0,
+                        "usp": null,
+                        "tlc_n": "Fruits & Vegetables",
+                        "p_promo_info": {},
+                        "gift_msg": "",
+                        "store_ids": [],
+                        "additional_info": {
+                            "per_unit_pack_selector": false,
+                            "per_unit_pd_page": true,
+                            "per_unit_listing_page": false,
+                            "other_app_listing": false,
+                            "other_app_pd": false
+                        },
+                        "offer_score": 0,
+                        "dis_val": "29",
+                        "sale_info": {},
+                        "display_order": 0,
+                        "sp": "20.50",
+                        "mrp": "29.00",
+                        "rating_info": {
+                            "sku_id": 10000067
+                        },
+                        "es_amt": 0,
+                        "w": "500 g",
+                        "absolute_url": "/pd/10000069/fresho-capsicum-green-500-g/",
+                        "pc_n": "Cucumber & Capsicum",
+                        "is_bby": null,
+                        "p_desc": "Capsicum - Green (Loose)",
+                        "base_price": "0.04"
+                    }
+                ],
+                "gift_msg": "",
+                "is_new": false,
+                "pack_desc": "",
+                "p_type": "veg",
+                "combo_skus": [
+                    1209671,
+                    1209673,
+                    1209674,
+                    1209675,
+                    1209677,
+                    1209663
+                ],
+                "attrs": {},
+                "store_ids": [],
+                "llc_s": "type=pc&slug=cucumber-capsicum",
+                "j_offer_detail": {
+                    "d_avail": "true",
+                    "d_text": "29% OFF",
+                    "offer_entry_text": "Har Din Sasta!",
+                    "offer_comm_enabled": "true",
+                    "offer_available": "true",
+                    "sec_price": {},
+                    "icon": {}
+                },
+                "sale_info": {},
+                "sku": 10000069,
+                "es_percent": 0,
+                "tlc_s": "fruits-vegetables",
+                "offer_score": 0,
+                "p_img_url": "https://www.bigbasket.com/media/uploads/p/s/10000069_20-fresho-capsicum-green.jpg",
+                "absolute_url": "/pd/10000069/fresho-capsicum-green-500-g/",
+                "display_order": 0,
+                "dis_val": "29",
+                "mrp": "29.00",
+                "p_brand": "Fresho",
+                "additional_info": {
+                    "per_unit_pack_selector": false,
+                    "per_unit_pd_page": true,
+                    "per_unit_listing_page": false,
+                    "other_app_listing": false,
+                    "other_app_pd": false
+                },
+                "dis_t": "P",
+                "rating_info": {
+                    "sku_id": 10000067
+                },
+                "es_amt": 0,
+                "w": "500 g",
+                "usp": null,
+                "pc_n": "Cucumber & Capsicum",
+                "tlc_n": "Fruits & Vegetables",
+                "p_promo_info": {},
+                "is_bby": null,
+                "p_desc": "Capsicum - Green (Loose)",
+                "base_price": "0.04"
+            },
+            {
+                "store_availability": [
+                    {
+                        "tab_type": "standard",
+                        "pstat": "O",
+                        "availability_info_id": "1.1",
+                        "store_id": "1"
+                    },
+                    {
+                        "tab_type": "standard",
+                        "pstat": "A",
+                        "availability_info_id": "3630.1",
+                        "store_id": "3630"
+                    },
+                    {
+                        "tab_type": "express",
+                        "pstat": "A",
+                        "availability_info_id": "9908.57",
+                        "store_id": "9908"
+                    },
+                    {
+                        "tab_type": "standard",
+                        "pstat": "A",
+                        "availability_info_id": "9409.1",
+                        "store_id": "9409"
+                    },
+                    {
+                        "tab_type": "standard",
+                        "pstat": "O",
+                        "availability_info_id": "9485.1",
+                        "store_id": "9485"
+                    }
+                ],
+                "llc_n": "Root Vegetables",
+                "sp": "15.33",
+                "base_unit": "g",
+                "pop_rank": 0,
+                "all_prods": [
+                    {
+                        "store_availability": [
+                            {
+                                "tab_type": "standard",
+                                "pstat": "O",
+                                "availability_info_id": "1.1",
+                                "store_id": "1"
+                            },
+                            {
+                                "tab_type": "standard",
+                                "pstat": "A",
+                                "availability_info_id": "3630.1",
+                                "store_id": "3630"
+                            },
+                            {
+                                "tab_type": "express",
+                                "pstat": "A",
+                                "availability_info_id": "9908.57",
+                                "store_id": "9908"
+                            },
+                            {
+                                "tab_type": "standard",
+                                "pstat": "A",
+                                "availability_info_id": "9409.1",
+                                "store_id": "9409"
+                            },
+                            {
+                                "tab_type": "standard",
+                                "pstat": "O",
+                                "availability_info_id": "9485.1",
+                                "store_id": "9485"
+                            }
+                        ],
+                        "llc_n": "Root Vegetables",
+                        "sp": "29.20",
+                        "base_unit": "g",
+                        "pop_rank": 0,
+                        "gift_msg": "",
+                        "is_new": false,
+                        "pack_desc": "",
+                        "p_type": "veg",
+                        "attrs": {},
+                        "store_ids": [],
+                        "llc_s": "type=pc&slug=root-vegetables",
+                        "j_offer_detail": {
+                            "d_avail": "true",
+                            "d_text": "27% OFF",
+                            "offer_entry_text": "",
+                            "offer_comm_enabled": "true",
+                            "offer_available": "false",
+                            "sec_price": {},
+                            "icon": {}
+                        },
+                        "sale_info": {},
+                        "sku": 10000072,
+                        "es_percent": 0,
+                        "tlc_s": "fruits-vegetables",
+                        "offer_score": 0,
+                        "p_img_url": "https://www.bigbasket.com/media/uploads/p/s/10000072_16-fresho-carrot-orange.jpg",
+                        "absolute_url": "/pd/10000072/fresho-carrot-orange-500-g/",
+                        "display_order": 0,
+                        "dis_val": "27",
+                        "mrp": "40.00",
+                        "p_brand": "Fresho",
+                        "additional_info": {
+                            "per_unit_pack_selector": false,
+                            "per_unit_pd_page": true,
+                            "per_unit_listing_page": false,
+                            "other_app_listing": false,
+                            "other_app_pd": false
+                        },
+                        "dis_t": "P",
+                        "rating_info": {
+                            "sku_id": 10000070
+                        },
+                        "es_amt": 0,
+                        "w": "500 g",
+                        "usp": null,
+                        "pc_n": "Root Vegetables",
+                        "tlc_n": "Fruits & Vegetables",
+                        "p_promo_info": {},
+                        "is_bby": null,
+                        "p_desc": "Carrot - Orange (Loose)",
+                        "base_price": "0.06"
+                    },
+                    {
+                        "store_availability": [
+                            {
+                                "tab_type": "standard",
+                                "pstat": "O",
+                                "availability_info_id": "1.1",
+                                "store_id": "1"
+                            },
+                            {
+                                "tab_type": "standard",
+                                "pstat": "A",
+                                "availability_info_id": "3630.1",
+                                "store_id": "3630"
+                            },
+                            {
+                                "tab_type": "express",
+                                "pstat": "A",
+                                "availability_info_id": "9908.57",
+                                "store_id": "9908"
+                            },
+                            {
+                                "tab_type": "standard",
+                                "pstat": "A",
+                                "availability_info_id": "9409.1",
+                                "store_id": "9409"
+                            },
+                            {
+                                "tab_type": "standard",
+                                "pstat": "O",
+                                "availability_info_id": "9485.1",
+                                "store_id": "9485"
+                            },
+                            {
+                                "tab_type": "standard",
+                                "pstat": "O",
+                                "availability_info_id": "6655.1",
+                                "store_id": "6655"
+                            }
+                        ],
+                        "llc_n": "Root Vegetables",
+                        "sp": "57.67",
+                        "base_unit": "kg",
+                        "pop_rank": 0,
+                        "gift_msg": "",
+                        "is_new": false,
+                        "pack_desc": "",
+                        "p_type": "veg",
+                        "combo_skus": [],
+                        "attrs": {},
+                        "store_ids": [],
+                        "llc_s": "type=pc&slug=root-vegetables",
+                        "j_offer_detail": {
+                            "d_avail": "true",
+                            "d_text": "27% OFF",
+                            "offer_entry_text": "",
+                            "offer_comm_enabled": "true",
+                            "offer_available": "false",
+                            "sec_price": {},
+                            "icon": {}
+                        },
+                        "sale_info": {},
+                        "sku": 10000070,
+                        "es_percent": 0,
+                        "tlc_s": "fruits-vegetables",
+                        "offer_score": 0,
+                        "p_img_url": "https://www.bigbasket.com/media/uploads/p/s/10000070_15-fresho-carrot-orange.jpg",
+                        "absolute_url": "/pd/10000070/fresho-carrot-orange-1-kg/",
+                        "display_order": 0,
+                        "dis_val": "27",
+                        "mrp": "79.00",
+                        "p_brand": "Fresho",
+                        "additional_info": {
+                            "per_unit_pack_selector": false,
+                            "per_unit_pd_page": true,
+                            "per_unit_listing_page": false,
+                            "other_app_listing": false,
+                            "other_app_pd": false
+                        },
+                        "dis_t": "P",
+                        "rating_info": {
+                            "sku_id": 10000070
+                        },
+                        "es_amt": 0,
+                        "w": "1 kg",
+                        "usp": null,
+                        "pc_n": "Root Vegetables",
+                        "tlc_n": "Fruits & Vegetables",
+                        "p_promo_info": {},
+                        "is_bby": null,
+                        "p_desc": "Carrot - Orange (Loose)",
+                        "base_price": "57.67"
+                    },
+                    {
+                        "store_availability": [
+                            {
+                                "tab_type": "standard",
+                                "pstat": "O",
+                                "availability_info_id": "1.1",
+                                "store_id": "1"
+                            },
+                            {
+                                "tab_type": "standard",
+                                "pstat": "A",
+                                "availability_info_id": "3630.1",
+                                "store_id": "3630"
+                            },
+                            {
+                                "tab_type": "express",
+                                "pstat": "A",
+                                "availability_info_id": "9908.57",
+                                "store_id": "9908"
+                            },
+                            {
+                                "tab_type": "standard",
+                                "pstat": "A",
+                                "availability_info_id": "9409.1",
+                                "store_id": "9409"
+                            },
+                            {
+                                "tab_type": "standard",
+                                "pstat": "O",
+                                "availability_info_id": "9485.1",
+                                "store_id": "9485"
+                            }
+                        ],
+                        "llc_n": "Root Vegetables",
+                        "dis_t": "P",
+                        "pop_rank": 0,
+                        "is_new": false,
+                        "pack_desc": "",
+                        "p_type": "veg",
+                        "attrs": {},
+                        "llc_s": "type=pc&slug=root-vegetables",
+                        "combo_skus": [],
+                        "sku": 10000071,
+                        "base_unit": "g",
+                        "tlc_s": "fruits-vegetables",
+                        "p_img_url": "https://www.bigbasket.com/media/uploads/p/s/10000071_14-fresho-carrot-orange.jpg",
+                        "p_brand": "Fresho",
+                        "j_offer_detail": {
+                            "d_avail": "true",
+                            "d_text": "27% OFF",
+                            "offer_entry_text": "",
+                            "offer_available": "false",
+                            "offer_comm_enabled": "true",
+                            "sec_price": {},
+                            "icon": {}
+                        },
+                        "es_percent": 0,
+                        "usp": null,
+                        "tlc_n": "Fruits & Vegetables",
+                        "p_promo_info": {},
+                        "gift_msg": "",
+                        "store_ids": [],
+                        "additional_info": {
+                            "per_unit_pack_selector": false,
+                            "per_unit_pd_page": true,
+                            "per_unit_listing_page": false,
+                            "other_app_listing": false,
+                            "other_app_pd": false
+                        },
+                        "offer_score": 0,
+                        "dis_val": "27",
+                        "sale_info": {},
+                        "display_order": 0,
+                        "sp": "15.33",
+                        "mrp": "21.00",
+                        "rating_info": {
+                            "sku_id": 10000070
+                        },
+                        "es_amt": 0,
+                        "w": "250 g",
+                        "absolute_url": "/pd/10000071/fresho-carrot-orange-250-g/",
+                        "pc_n": "Root Vegetables",
+                        "is_bby": null,
+                        "p_desc": "Carrot - Orange (Loose)",
+                        "base_price": "0.06"
+                    }
+                ],
+                "gift_msg": "",
+                "is_new": false,
+                "pack_desc": "",
+                "p_type": "veg",
+                "combo_skus": [
+                    1202153,
+                    1209663
+                ],
+                "attrs": {},
+                "store_ids": [],
+                "llc_s": "type=pc&slug=root-vegetables",
+                "j_offer_detail": {
+                    "d_avail": "true",
+                    "d_text": "27% OFF",
+                    "offer_entry_text": "",
+                    "offer_comm_enabled": "true",
+                    "offer_available": "false",
+                    "sec_price": {},
+                    "icon": {}
+                },
+                "sale_info": {},
+                "sku": 10000071,
+                "es_percent": 0,
+                "tlc_s": "fruits-vegetables",
+                "offer_score": 0,
+                "p_img_url": "https://www.bigbasket.com/media/uploads/p/s/10000071_14-fresho-carrot-orange.jpg",
+                "absolute_url": "/pd/10000071/fresho-carrot-orange-250-g/",
+                "display_order": 0,
+                "dis_val": "27",
+                "mrp": "21.00",
+                "p_brand": "Fresho",
+                "additional_info": {
+                    "per_unit_pack_selector": false,
+                    "per_unit_pd_page": true,
+                    "per_unit_listing_page": false,
+                    "other_app_listing": false,
+                    "other_app_pd": false
+                },
+                "dis_t": "P",
+                "rating_info": {
+                    "sku_id": 10000070
+                },
+                "es_amt": 0,
+                "w": "250 g",
+                "usp": null,
+                "pc_n": "Root Vegetables",
+                "tlc_n": "Fruits & Vegetables",
+                "p_promo_info": {},
+                "is_bby": null,
+                "p_desc": "Carrot - Orange (Loose)",
+                "base_price": "0.06"
+            },
+            {
+                "store_availability": [
+                    {
+                        "tab_type": "standard",
+                        "pstat": "O",
+                        "availability_info_id": "1.1",
+                        "store_id": "1"
+                    },
+                    {
+                        "tab_type": "standard",
+                        "pstat": "A",
+                        "availability_info_id": "3630.1",
+                        "store_id": "3630"
+                    },
+                    {
+                        "tab_type": "express",
+                        "pstat": "A",
+                        "availability_info_id": "9908.57",
+                        "store_id": "9908"
+                    },
+                    {
+                        "tab_type": "standard",
+                        "pstat": "A",
+                        "availability_info_id": "9409.1",
+                        "store_id": "9409"
+                    },
+                    {
+                        "tab_type": "standard",
+                        "pstat": "O",
+                        "availability_info_id": "9485.1",
+                        "store_id": "9485"
+                    },
+                    {
+                        "tab_type": "standard",
+                        "pstat": "O",
+                        "availability_info_id": "6655.1",
+                        "store_id": "6655"
+                    }
+                ],
+                "llc_n": "Cabbage & Cauliflower",
+                "sp": "18.25",
+                "base_unit": "pc",
+                "pop_rank": 0,
+                "all_prods": [],
+                "gift_msg": "",
+                "is_new": false,
+                "pack_desc": "(approx. 400 to 600 g)",
+                "p_type": "veg",
+                "combo_skus": [
+                    1209664,
+                    1209679
+                ],
+                "attrs": {},
+                "store_ids": [],
+                "llc_s": "type=pc&slug=cabbage-cauliflower",
+                "j_offer_detail": {
+                    "d_avail": "true",
+                    "d_text": "27% OFF",
+                    "offer_entry_text": "",
+                    "offer_comm_enabled": "true",
+                    "offer_available": "false",
+                    "sec_price": {},
+                    "icon": {}
+                },
+                "sale_info": {},
+                "sku": 10000074,
+                "es_percent": 0,
+                "tlc_s": "fruits-vegetables",
+                "offer_score": 0,
+                "p_img_url": "https://www.bigbasket.com/media/uploads/p/s/10000074_19-fresho-cauliflower.jpg",
+                "absolute_url": "/pd/10000074/fresho-cauliflower-1-pc/",
+                "display_order": 0,
+                "dis_val": "27",
+                "mrp": "25.00",
+                "p_brand": "Fresho",
+                "additional_info": {
+                    "per_unit_pack_selector": false,
+                    "per_unit_pd_page": true,
+                    "per_unit_listing_page": false,
+                    "other_app_listing": true,
+                    "other_app_pd": true
+                },
+                "dis_t": "P",
+                "rating_info": {
+                    "sku_id": 10000074
+                },
+                "es_amt": 0,
+                "w": "1 pc",
+                "usp": "Farm Fresh & Safe",
+                "pc_n": "Cabbage & Cauliflower",
+                "tlc_n": "Fruits & Vegetables",
+                "p_promo_info": {},
+                "is_bby": null,
+                "p_desc": "Cauliflower",
+                "base_price": "18.25"
+            },
+            {
+                "store_availability": [
+                    {
+                        "tab_type": "standard",
+                        "pstat": "O",
+                        "availability_info_id": "1.1",
+                        "store_id": "1"
+                    },
+                    {
+                        "tab_type": "standard",
+                        "pstat": "A",
+                        "availability_info_id": "3630.1",
+                        "store_id": "3630"
+                    },
+                    {
+                        "tab_type": "express",
+                        "pstat": "A",
+                        "availability_info_id": "9908.57",
+                        "store_id": "9908"
+                    },
+                    {
+                        "tab_type": "standard",
+                        "pstat": "A",
+                        "availability_info_id": "9409.1",
+                        "store_id": "9409"
+                    },
+                    {
+                        "tab_type": "standard",
+                        "pstat": "O",
+                        "availability_info_id": "9485.1",
+                        "store_id": "9485"
+                    }
+                ],
+                "llc_n": "Indian & Exotic Herbs",
+                "sp": "9.50",
+                "base_unit": "g",
+                "pop_rank": 0,
+                "all_prods": [
+                    {
+                        "store_availability": [
+                            {
+                                "tab_type": "standard",
+                                "pstat": "O",
+                                "availability_info_id": "1.1",
+                                "store_id": "1"
+                            },
+                            {
+                                "tab_type": "standard",
+                                "pstat": "A",
+                                "availability_info_id": "3630.1",
+                                "store_id": "3630"
+                            },
+                            {
+                                "tab_type": "express",
+                                "pstat": "A",
+                                "availability_info_id": "9908.57",
+                                "store_id": "9908"
+                            },
+                            {
+                                "tab_type": "standard",
+                                "pstat": "A",
+                                "availability_info_id": "9409.1",
+                                "store_id": "9409"
+                            },
+                            {
+                                "tab_type": "standard",
+                                "pstat": "O",
+                                "availability_info_id": "9485.1",
+                                "store_id": "9485"
+                            }
+                        ],
+                        "llc_n": "Indian & Exotic Herbs",
+                        "dis_t": "P",
+                        "pop_rank": 0,
+                        "is_new": false,
+                        "pack_desc": "",
+                        "p_type": "veg",
+                        "attrs": {},
+                        "llc_s": "type=pc&slug=indian-exotic-herbs",
+                        "sku": 10000097,
+                        "base_unit": "g",
+                        "tlc_s": "fruits-vegetables",
+                        "p_img_url": "https://www.bigbasket.com/media/uploads/p/s/10000097_19-fresho-coriander-leaves.jpg",
+                        "p_brand": "Fresho",
+                        "j_offer_detail": {
+                            "d_avail": "true",
+                            "d_text": "41% OFF",
+                            "offer_entry_text": "Har Din Sasta!",
+                            "offer_available": "true",
+                            "offer_comm_enabled": "true",
+                            "sec_price": {},
+                            "icon": {}
+                        },
+                        "es_percent": 0,
+                        "usp": "Contain Minimal Aroma",
+                        "tlc_n": "Fruits & Vegetables",
+                        "p_promo_info": {},
+                        "gift_msg": "",
+                        "store_ids": [],
+                        "additional_info": {
+                            "per_unit_pack_selector": false,
+                            "per_unit_pd_page": true,
+                            "per_unit_listing_page": false,
+                            "other_app_listing": true,
+                            "other_app_pd": true
+                        },
+                        "offer_score": 0,
+                        "dis_val": "41",
+                        "sale_info": {},
+                        "display_order": 0,
+                        "sp": "9.50",
+                        "mrp": "16.00",
+                        "rating_info": {
+                            "sku_id": 10000326
+                        },
+                        "es_amt": 0,
+                        "w": "100 g",
+                        "absolute_url": "/pd/10000097/fresho-coriander-leaves-100-g/",
+                        "pc_n": "Indian & Exotic Herbs",
+                        "is_bby": null,
+                        "p_desc": "Coriander Leaves",
+                        "base_price": "0.10"
+                    },
+                    {
+                        "store_availability": [
+                            {
+                                "tab_type": "standard",
+                                "pstat": "O",
+                                "availability_info_id": "1.1",
+                                "store_id": "1"
+                            },
+                            {
+                                "tab_type": "standard",
+                                "pstat": "A",
+                                "availability_info_id": "3630.1",
+                                "store_id": "3630"
+                            },
+                            {
+                                "tab_type": "express",
+                                "pstat": "A",
+                                "availability_info_id": "9908.57",
+                                "store_id": "9908"
+                            },
+                            {
+                                "tab_type": "standard",
+                                "pstat": "A",
+                                "availability_info_id": "9409.1",
+                                "store_id": "9409"
+                            },
+                            {
+                                "tab_type": "standard",
+                                "pstat": "O",
+                                "availability_info_id": "9485.1",
+                                "store_id": "9485"
+                            }
+                        ],
+                        "llc_n": "Indian & Exotic Herbs",
+                        "sp": "23.50",
+                        "base_unit": "g",
+                        "pop_rank": 0,
+                        "gift_msg": "",
+                        "is_new": false,
+                        "pack_desc": "",
+                        "p_type": "veg",
+                        "combo_skus": [],
+                        "attrs": {},
+                        "store_ids": [],
+                        "llc_s": "type=pc&slug=indian-exotic-herbs",
+                        "j_offer_detail": {
+                            "d_avail": "true",
+                            "d_text": "35% OFF",
+                            "offer_entry_text": "Har Din Sasta!",
+                            "offer_comm_enabled": "true",
+                            "offer_available": "true",
+                            "sec_price": {},
+                            "icon": {}
+                        },
+                        "sale_info": {},
+                        "sku": 10000098,
+                        "es_percent": 0,
+                        "tlc_s": "fruits-vegetables",
+                        "offer_score": 0,
+                        "p_img_url": "https://www.bigbasket.com/media/uploads/p/s/10000098_9-fresho-coriander-leaves.jpg",
+                        "absolute_url": "/pd/10000098/fresho-coriander-leaves-250-g/",
+                        "display_order": 0,
+                        "dis_val": "35",
+                        "mrp": "36.00",
+                        "p_brand": "Fresho",
+                        "additional_info": {
+                            "per_unit_pack_selector": false,
+                            "per_unit_pd_page": true,
+                            "per_unit_listing_page": false,
+                            "other_app_listing": true,
+                            "other_app_pd": true
+                        },
+                        "dis_t": "P",
+                        "rating_info": {
+                            "sku_id": 10000326
+                        },
+                        "es_amt": 0,
+                        "w": "250 g",
+                        "usp": "Contain Minimal Aroma",
+                        "pc_n": "Indian & Exotic Herbs",
+                        "tlc_n": "Fruits & Vegetables",
+                        "p_promo_info": {},
+                        "is_bby": null,
+                        "p_desc": "Coriander Leaves",
+                        "base_price": "0.09"
+                    },
+                    {
+                        "store_availability": [
+                            {
+                                "tab_type": "standard",
+                                "pstat": "O",
+                                "availability_info_id": "1.1",
+                                "store_id": "1"
+                            },
+                            {
+                                "tab_type": "standard",
+                                "pstat": "A",
+                                "availability_info_id": "3630.1",
+                                "store_id": "3630"
+                            },
+                            {
+                                "tab_type": "standard",
+                                "pstat": "A",
+                                "availability_info_id": "9409.1",
+                                "store_id": "9409"
+                            },
+                            {
+                                "tab_type": "standard",
+                                "pstat": "O",
+                                "availability_info_id": "6655.1",
+                                "store_id": "6655"
+                            }
+                        ],
+                        "llc_n": "Indian & Exotic Herbs",
+                        "sp": "41.50",
+                        "base_unit": "kg",
+                        "pop_rank": 0,
+                        "gift_msg": "",
+                        "is_new": false,
+                        "pack_desc": "",
+                        "p_type": "veg",
+                        "combo_skus": [],
+                        "attrs": {},
+                        "store_ids": [],
+                        "llc_s": "type=pc&slug=indian-exotic-herbs",
+                        "j_offer_detail": {
+                            "d_avail": "true",
+                            "d_text": "70% OFF",
+                            "offer_entry_text": "Har Din Sasta!",
+                            "offer_comm_enabled": "true",
+                            "offer_available": "true",
+                            "sec_price": {},
+                            "icon": {}
+                        },
+                        "sale_info": {},
+                        "sku": 10000326,
+                        "es_percent": 0,
+                        "tlc_s": "fruits-vegetables",
+                        "offer_score": 0,
+                        "p_img_url": "https://www.bigbasket.com/media/uploads/p/s/10000326_14-fresho-coriander-leaves.jpg",
+                        "absolute_url": "/pd/10000326/fresho-coriander-leaves-1-kg/",
+                        "display_order": 0,
+                        "dis_val": "70",
+                        "mrp": "139.00",
+                        "p_brand": "Fresho",
+                        "additional_info": {
+                            "per_unit_pack_selector": true,
+                            "per_unit_pd_page": true,
+                            "per_unit_listing_page": true,
+                            "other_app_listing": true,
+                            "other_app_pd": true
+                        },
+                        "dis_t": "P",
+                        "rating_info": {
+                            "sku_id": 10000326
+                        },
+                        "es_amt": 0,
+                        "w": "1 kg",
+                        "usp": "Contain Minimal Aroma",
+                        "pc_n": "Indian & Exotic Herbs",
+                        "tlc_n": "Fruits & Vegetables",
+                        "p_promo_info": {},
+                        "is_bby": null,
+                        "p_desc": "Coriander Leaves",
+                        "base_price": "41.50"
+                    }
+                ],
+                "gift_msg": "",
+                "is_new": false,
+                "pack_desc": "",
+                "p_type": "veg",
+                "combo_skus": [
+                    1202817,
+                    1222458,
+                    1209661,
+                    1209662
+                ],
+                "attrs": {},
+                "store_ids": [],
+                "llc_s": "type=pc&slug=indian-exotic-herbs",
+                "j_offer_detail": {
+                    "d_avail": "true",
+                    "d_text": "41% OFF",
+                    "offer_entry_text": "Har Din Sasta!",
+                    "offer_comm_enabled": "true",
+                    "offer_available": "true",
+                    "sec_price": {},
+                    "icon": {}
+                },
+                "sale_info": {},
+                "sku": 10000097,
+                "es_percent": 0,
+                "tlc_s": "fruits-vegetables",
+                "offer_score": 0,
+                "p_img_url": "https://www.bigbasket.com/media/uploads/p/s/10000097_19-fresho-coriander-leaves.jpg",
+                "absolute_url": "/pd/10000097/fresho-coriander-leaves-100-g/",
+                "display_order": 0,
+                "dis_val": "41",
+                "mrp": "16.00",
+                "p_brand": "Fresho",
+                "additional_info": {
+                    "per_unit_pack_selector": false,
+                    "per_unit_pd_page": true,
+                    "per_unit_listing_page": false,
+                    "other_app_listing": true,
+                    "other_app_pd": true
+                },
+                "dis_t": "P",
+                "rating_info": {
+                    "sku_id": 10000326
+                },
+                "es_amt": 0,
+                "w": "100 g",
+                "usp": "Contain Minimal Aroma",
+                "pc_n": "Indian & Exotic Herbs",
+                "tlc_n": "Fruits & Vegetables",
+                "p_promo_info": {},
+                "is_bby": null,
+                "p_desc": "Coriander Leaves",
+                "base_price": "0.10"
+            },
+            {
+                "store_availability": [
+                    {
+                        "tab_type": "standard",
+                        "pstat": "O",
+                        "availability_info_id": "1.1",
+                        "store_id": "1"
+                    },
+                    {
+                        "tab_type": "standard",
+                        "pstat": "A",
+                        "availability_info_id": "3630.1",
+                        "store_id": "3630"
+                    },
+                    {
+                        "tab_type": "express",
+                        "pstat": "A",
+                        "availability_info_id": "9908.57",
+                        "store_id": "9908"
+                    },
+                    {
+                        "tab_type": "standard",
+                        "pstat": "A",
+                        "availability_info_id": "9409.1",
+                        "store_id": "9409"
+                    },
+                    {
+                        "tab_type": "standard",
+                        "pstat": "O",
+                        "availability_info_id": "9485.1",
+                        "store_id": "9485"
+                    }
+                ],
+                "llc_n": "Beans, Brinjals & Okra",
+                "sp": "11.00",
+                "base_unit": "g",
+                "pop_rank": 0,
+                "all_prods": [
+                    {
+                        "store_availability": [
+                            {
+                                "tab_type": "standard",
+                                "pstat": "O",
+                                "availability_info_id": "1.1",
+                                "store_id": "1"
+                            },
+                            {
+                                "tab_type": "standard",
+                                "pstat": "A",
+                                "availability_info_id": "3630.1",
+                                "store_id": "3630"
+                            },
+                            {
+                                "tab_type": "express",
+                                "pstat": "A",
+                                "availability_info_id": "9908.57",
+                                "store_id": "9908"
+                            },
+                            {
+                                "tab_type": "standard",
+                                "pstat": "A",
+                                "availability_info_id": "9409.1",
+                                "store_id": "9409"
+                            },
+                            {
+                                "tab_type": "standard",
+                                "pstat": "O",
+                                "availability_info_id": "9485.1",
+                                "store_id": "9485"
+                            }
+                        ],
+                        "llc_n": "Beans, Brinjals & Okra",
+                        "dis_t": "P",
+                        "pop_rank": 0,
+                        "is_new": false,
+                        "pack_desc": "",
+                        "p_type": "veg",
+                        "attrs": {},
+                        "llc_s": "type=pc&slug=beans-brinjals-okra",
+                        "sku": 10000144,
+                        "base_unit": "g",
+                        "tlc_s": "fruits-vegetables",
+                        "p_img_url": "https://www.bigbasket.com/media/uploads/p/s/10000144_13-fresho-ladies-finger.jpg",
+                        "p_brand": "Fresho",
+                        "j_offer_detail": {
+                            "d_avail": "true",
+                            "d_text": "56% OFF",
+                            "offer_entry_text": "Har Din Sasta!",
+                            "offer_available": "true",
+                            "offer_comm_enabled": "true",
+                            "sec_price": {},
+                            "icon": {}
+                        },
+                        "es_percent": 0,
+                        "usp": "",
+                        "tlc_n": "Fruits & Vegetables",
+                        "p_promo_info": {},
+                        "gift_msg": "",
+                        "store_ids": [],
+                        "additional_info": {
+                            "per_unit_pack_selector": true,
+                            "per_unit_pd_page": true,
+                            "per_unit_listing_page": true,
+                            "other_app_listing": true,
+                            "other_app_pd": true
+                        },
+                        "offer_score": 0,
+                        "dis_val": "56",
+                        "sale_info": {},
+                        "display_order": 0,
+                        "sp": "11.00",
+                        "mrp": "25.00",
+                        "rating_info": {
+                            "sku_id": 10000142
+                        },
+                        "es_amt": 0,
+                        "w": "500 g",
+                        "absolute_url": "/pd/10000144/fresho-ladies-finger-500-g/",
+                        "pc_n": "Beans, Brinjals & Okra",
+                        "is_bby": null,
+                        "p_desc": "Ladies' Fingers (Loose)",
+                        "base_price": "0.02"
+                    },
+                    {
+                        "store_availability": [
+                            {
+                                "tab_type": "standard",
+                                "pstat": "O",
+                                "availability_info_id": "1.1",
+                                "store_id": "1"
+                            },
+                            {
+                                "tab_type": "standard",
+                                "pstat": "A",
+                                "availability_info_id": "9485.1",
+                                "store_id": "9485"
+                            },
+                            {
+                                "tab_type": "standard",
+                                "pstat": "A",
+                                "availability_info_id": "3630.1",
+                                "store_id": "3630"
+                            },
+                            {
+                                "tab_type": "express",
+                                "pstat": "A",
+                                "availability_info_id": "9908.57",
+                                "store_id": "9908"
+                            },
+                            {
+                                "tab_type": "standard",
+                                "pstat": "A",
+                                "availability_info_id": "9409.1",
+                                "store_id": "9409"
+                            },
+                            {
+                                "tab_type": "standard",
+                                "pstat": "O",
+                                "availability_info_id": "6655.1",
+                                "store_id": "6655"
+                            }
+                        ],
+                        "llc_n": "Beans, Brinjals & Okra",
+                        "sp": "21.50",
+                        "base_unit": "kg",
+                        "pop_rank": 0,
+                        "gift_msg": "",
+                        "is_new": false,
+                        "pack_desc": "",
+                        "p_type": "veg",
+                        "combo_skus": [],
+                        "attrs": {},
+                        "store_ids": [],
+                        "llc_s": "type=pc&slug=beans-brinjals-okra",
+                        "j_offer_detail": {
+                            "d_avail": "true",
+                            "d_text": "55% OFF",
+                            "offer_entry_text": "Har Din Sasta!",
+                            "offer_comm_enabled": "true",
+                            "offer_available": "true",
+                            "sec_price": {},
+                            "icon": {}
+                        },
+                        "sale_info": {},
+                        "sku": 10000142,
+                        "es_percent": 0,
+                        "tlc_s": "fruits-vegetables",
+                        "offer_score": 0,
+                        "p_img_url": "https://www.bigbasket.com/media/uploads/p/s/10000142_16-fresho-ladies-finger.jpg",
+                        "absolute_url": "/pd/10000142/fresho-ladies-finger-1-kg/",
+                        "display_order": 0,
+                        "dis_val": "55",
+                        "mrp": "48.00",
+                        "p_brand": "Fresho",
+                        "additional_info": {
+                            "per_unit_pack_selector": true,
+                            "per_unit_pd_page": true,
+                            "per_unit_listing_page": true,
+                            "other_app_listing": true,
+                            "other_app_pd": true
+                        },
+                        "dis_t": "P",
+                        "rating_info": {
+                            "sku_id": 10000142
+                        },
+                        "es_amt": 0,
+                        "w": "1 kg",
+                        "usp": "",
+                        "pc_n": "Beans, Brinjals & Okra",
+                        "tlc_n": "Fruits & Vegetables",
+                        "p_promo_info": {},
+                        "is_bby": null,
+                        "p_desc": "Ladies' Fingers (Loose)",
+                        "base_price": "21.50"
+                    },
+                    {
+                        "store_availability": [
+                            {
+                                "tab_type": "standard",
+                                "pstat": "O",
+                                "availability_info_id": "1.1",
+                                "store_id": "1"
+                            },
+                            {
+                                "tab_type": "standard",
+                                "pstat": "A",
+                                "availability_info_id": "3630.1",
+                                "store_id": "3630"
+                            },
+                            {
+                                "tab_type": "express",
+                                "pstat": "A",
+                                "availability_info_id": "9908.57",
+                                "store_id": "9908"
+                            },
+                            {
+                                "tab_type": "standard",
+                                "pstat": "O",
+                                "availability_info_id": "9485.1",
+                                "store_id": "9485"
+                            }
+                        ],
+                        "llc_n": "Beans, Brinjals & Okra",
+                        "sp": "5.50",
+                        "base_unit": "g",
+                        "pop_rank": 0,
+                        "gift_msg": "",
+                        "is_new": false,
+                        "pack_desc": "",
+                        "p_type": "veg",
+                        "combo_skus": [],
+                        "attrs": {},
+                        "store_ids": [],
+                        "llc_s": "type=pc&slug=beans-brinjals-okra",
+                        "j_offer_detail": {
+                            "d_avail": "true",
+                            "d_text": "61% OFF",
+                            "offer_entry_text": "Har Din Sasta!",
+                            "offer_comm_enabled": "true",
+                            "offer_available": "true",
+                            "sec_price": {},
+                            "icon": {}
+                        },
+                        "sale_info": {},
+                        "sku": 10000143,
+                        "es_percent": 0,
+                        "tlc_s": "fruits-vegetables",
+                        "offer_score": 0,
+                        "p_img_url": "https://www.bigbasket.com/media/uploads/p/s/10000143_14-fresho-ladies-finger.jpg",
+                        "absolute_url": "/pd/10000143/fresho-ladies-finger-250-g/",
+                        "display_order": 0,
+                        "dis_val": "61",
+                        "mrp": "14.00",
+                        "p_brand": "Fresho",
+                        "additional_info": {
+                            "per_unit_pack_selector": true,
+                            "per_unit_pd_page": true,
+                            "per_unit_listing_page": true,
+                            "other_app_listing": true,
+                            "other_app_pd": true
+                        },
+                        "dis_t": "P",
+                        "rating_info": {
+                            "sku_id": 10000142
+                        },
+                        "es_amt": 0,
+                        "w": "250 g",
+                        "usp": "",
+                        "pc_n": "Beans, Brinjals & Okra",
+                        "tlc_n": "Fruits & Vegetables",
+                        "p_promo_info": {},
+                        "is_bby": null,
+                        "p_desc": "Ladies' Fingers (Loose)",
+                        "base_price": "0.02"
+                    }
+                ],
+                "gift_msg": "",
+                "is_new": false,
+                "pack_desc": "",
+                "p_type": "veg",
+                "combo_skus": [
+                    1209671,
+                    1209673,
+                    1209674,
+                    1209675,
+                    1209677,
+                    1209663
+                ],
+                "attrs": {},
+                "store_ids": [],
+                "llc_s": "type=pc&slug=beans-brinjals-okra",
+                "j_offer_detail": {
+                    "d_avail": "true",
+                    "d_text": "56% OFF",
+                    "offer_entry_text": "Har Din Sasta!",
+                    "offer_comm_enabled": "true",
+                    "offer_available": "true",
+                    "sec_price": {},
+                    "icon": {}
+                },
+                "sale_info": {},
+                "sku": 10000144,
+                "es_percent": 0,
+                "tlc_s": "fruits-vegetables",
+                "offer_score": 0,
+                "p_img_url": "https://www.bigbasket.com/media/uploads/p/s/10000144_13-fresho-ladies-finger.jpg",
+                "absolute_url": "/pd/10000144/fresho-ladies-finger-500-g/",
+                "display_order": 0,
+                "dis_val": "56",
+                "mrp": "25.00",
+                "p_brand": "Fresho",
+                "additional_info": {
+                    "per_unit_pack_selector": true,
+                    "per_unit_pd_page": true,
+                    "per_unit_listing_page": true,
+                    "other_app_listing": true,
+                    "other_app_pd": true
+                },
+                "dis_t": "P",
+                "rating_info": {
+                    "sku_id": 10000142
+                },
+                "es_amt": 0,
+                "w": "500 g",
+                "usp": "",
+                "pc_n": "Beans, Brinjals & Okra",
+                "tlc_n": "Fruits & Vegetables",
+                "p_promo_info": {},
+                "is_bby": null,
+                "p_desc": "Ladies' Fingers (Loose)",
+                "base_price": "0.02"
+            },
+            {
+                "store_availability": [
+                    {
+                        "tab_type": "standard",
+                        "pstat": "O",
+                        "availability_info_id": "1.1",
+                        "store_id": "1"
+                    },
+                    {
+                        "tab_type": "standard",
+                        "pstat": "A",
+                        "availability_info_id": "9.1",
+                        "store_id": "9"
+                    },
+                    {
+                        "tab_type": "standard",
+                        "pstat": "A",
+                        "availability_info_id": "3630.1",
+                        "store_id": "3630"
+                    },
+                    {
+                        "tab_type": "express",
+                        "pstat": "A",
+                        "availability_info_id": "9908.57",
+                        "store_id": "9908"
+                    },
+                    {
+                        "tab_type": "standard",
+                        "pstat": "A",
+                        "availability_info_id": "9409.1",
+                        "store_id": "9409"
+                    },
+                    {
+                        "tab_type": "standard",
+                        "pstat": "A",
+                        "availability_info_id": "9485.1",
+                        "store_id": "9485"
+                    },
+                    {
+                        "tab_type": "standard",
+                        "pstat": "A",
+                        "availability_info_id": "10575.1",
+                        "store_id": "10575"
+                    },
+                    {
+                        "tab_type": "standard",
+                        "pstat": "O",
+                        "availability_info_id": "6655.1",
+                        "store_id": "6655"
+                    }
+                ],
+                "llc_n": "Potato, Onion & Tomato",
+                "sp": "48.00",
+                "base_unit": "kg",
+                "pop_rank": 0,
+                "all_prods": [
+                    {
+                        "store_availability": [
+                            {
+                                "tab_type": "standard",
+                                "pstat": "O",
+                                "availability_info_id": "1.1",
+                                "store_id": "1"
+                            },
+                            {
+                                "tab_type": "standard",
+                                "pstat": "A",
+                                "availability_info_id": "9485.1",
+                                "store_id": "9485"
+                            },
+                            {
+                                "tab_type": "standard",
+                                "pstat": "A",
+                                "availability_info_id": "3630.1",
+                                "store_id": "3630"
+                            },
+                            {
+                                "tab_type": "express",
+                                "pstat": "A",
+                                "availability_info_id": "9908.57",
+                                "store_id": "9908"
+                            },
+                            {
+                                "tab_type": "standard",
+                                "pstat": "A",
+                                "availability_info_id": "9409.1",
+                                "store_id": "9409"
+                            }
+                        ],
+                        "llc_n": "Potato, Onion & Tomato",
+                        "sp": "96.00",
+                        "base_unit": "kg",
+                        "pop_rank": 0,
+                        "gift_msg": "",
+                        "is_new": false,
+                        "pack_desc": "",
+                        "p_type": "veg",
+                        "combo_skus": [],
+                        "attrs": {},
+                        "store_ids": [],
+                        "llc_s": "type=pc&slug=potato-onion-tomato",
+                        "j_offer_detail": {
+                            "d_avail": "true",
+                            "d_text": "29% OFF",
+                            "offer_entry_text": "Har Din Sasta!",
+                            "offer_comm_enabled": "true",
+                            "offer_available": "true",
+                            "sec_price": {},
+                            "icon": {}
+                        },
+                        "sale_info": {},
+                        "sku": 40075537,
+                        "es_percent": 0,
+                        "tlc_s": "fruits-vegetables",
+                        "offer_score": 0,
+                        "p_img_url": "https://www.bigbasket.com/media/uploads/p/s/40075537_5-fresho-onion.jpg",
+                        "absolute_url": "/pd/40075537/fresho-onion-2-kg/",
+                        "display_order": 0,
+                        "dis_val": "29",
+                        "mrp": "136.00",
+                        "p_brand": "Fresho",
+                        "additional_info": {
+                            "per_unit_pack_selector": false,
+                            "per_unit_pd_page": true,
+                            "per_unit_listing_page": false,
+                            "other_app_listing": false,
+                            "other_app_pd": false
+                        },
+                        "dis_t": "P",
+                        "rating_info": {
+                            "sku_id": 10000148
+                        },
+                        "es_amt": 0,
+                        "w": "2 kg",
+                        "usp": null,
+                        "pc_n": "Potato, Onion & Tomato",
+                        "tlc_n": "Fruits & Vegetables",
+                        "p_promo_info": {},
+                        "is_bby": null,
+                        "p_desc": "Onion (Loose)",
+                        "base_price": "48.00"
+                    },
+                    {
+                        "llc_n": "Potato, Onion & Tomato",
+                        "sp": "240.00",
+                        "pop_rank": 0,
+                        "gift_msg": "",
+                        "is_new": false,
+                        "pack_desc": "Multipack",
+                        "p_type": "",
+                        "attrs": {},
+                        "store_ids": [],
+                        "llc_s": "type=pc&slug=potato-onion-tomato",
+                        "j_offer_detail": {
+                            "d_avail": "true",
+                            "d_text": "30% OFF",
+                            "offer_entry_text": "",
+                            "offer_comm_enabled": "true",
+                            "offer_available": "false",
+                            "sec_price": {},
+                            "icon": {}
+                        },
+                        "sale_info": {},
+                        "sku": 1201414,
+                        "es_percent": 0,
+                        "tlc_s": "fruits-vegetables",
+                        "offer_score": 0,
+                        "p_img_url": "https://www.bigbasket.com/media/uploads/p/s/1201414_1-fresho-onion.jpg",
+                        "absolute_url": "/pd/1201414/fresho-onion-5-kg/",
+                        "display_order": 0,
+                        "dis_val": "30",
+                        "mrp": "345.00",
+                        "p_brand": "Fresho",
+                        "store_availability": [
+                            {
+                                "tab_type": "standard",
+                                "pstat": "O",
+                                "availability_info_id": "1.1",
+                                "store_id": "1"
+                            }
+                        ],
+                        "dis_t": "P",
+                        "rating_info": {
+                            "sku_id": 10000148
+                        },
+                        "es_amt": 0,
+                        "w": "5 kg",
+                        "usp": null,
+                        "pc_n": "Potato, Onion & Tomato",
+                        "tlc_n": "Fruits & Vegetables",
+                        "p_promo_info": {},
+                        "is_bby": null,
+                        "p_desc": "Onion"
+                    },
+                    {
+                        "store_availability": [
+                            {
+                                "tab_type": "standard",
+                                "pstat": "O",
+                                "availability_info_id": "1.1",
+                                "store_id": "1"
+                            },
+                            {
+                                "tab_type": "standard",
+                                "pstat": "A",
+                                "availability_info_id": "9.1",
+                                "store_id": "9"
+                            },
+                            {
+                                "tab_type": "standard",
+                                "pstat": "A",
+                                "availability_info_id": "3630.1",
+                                "store_id": "3630"
+                            },
+                            {
+                                "tab_type": "express",
+                                "pstat": "A",
+                                "availability_info_id": "9908.57",
+                                "store_id": "9908"
+                            },
+                            {
+                                "tab_type": "standard",
+                                "pstat": "A",
+                                "availability_info_id": "9409.1",
+                                "store_id": "9409"
+                            },
+                            {
+                                "tab_type": "standard",
+                                "pstat": "A",
+                                "availability_info_id": "9485.1",
+                                "store_id": "9485"
+                            },
+                            {
+                                "tab_type": "standard",
+                                "pstat": "A",
+                                "availability_info_id": "10575.1",
+                                "store_id": "10575"
+                            },
+                            {
+                                "tab_type": "standard",
+                                "pstat": "O",
+                                "availability_info_id": "6655.1",
+                                "store_id": "6655"
+                            }
+                        ],
+                        "llc_n": "Potato, Onion & Tomato",
+                        "dis_t": "P",
+                        "pop_rank": 0,
+                        "is_new": false,
+                        "pack_desc": "",
+                        "p_type": "veg",
+                        "attrs": {},
+                        "llc_s": "type=pc&slug=potato-onion-tomato",
+                        "sku": 10000148,
+                        "base_unit": "kg",
+                        "tlc_s": "fruits-vegetables",
+                        "p_img_url": "https://www.bigbasket.com/media/uploads/p/s/10000148_30-fresho-onion.jpg",
+                        "p_brand": "Fresho",
+                        "j_offer_detail": {
+                            "d_avail": "true",
+                            "d_text": "30% OFF",
+                            "offer_entry_text": "Har Din Sasta!",
+                            "offer_available": "true",
+                            "offer_comm_enabled": "true",
+                            "sec_price": {},
+                            "icon": {}
+                        },
+                        "es_percent": 0,
+                        "usp": null,
+                        "tlc_n": "Fruits & Vegetables",
+                        "p_promo_info": {},
+                        "gift_msg": "",
+                        "store_ids": [],
+                        "additional_info": {
+                            "per_unit_pack_selector": false,
+                            "per_unit_pd_page": true,
+                            "per_unit_listing_page": false,
+                            "other_app_listing": false,
+                            "other_app_pd": false
+                        },
+                        "offer_score": 0,
+                        "dis_val": "30",
+                        "sale_info": {},
+                        "display_order": 0,
+                        "sp": "48.00",
+                        "mrp": "69.00",
+                        "rating_info": {
+                            "sku_id": 10000148
+                        },
+                        "es_amt": 0,
+                        "w": "1 kg",
+                        "absolute_url": "/pd/10000148/fresho-onion-1-kg/",
+                        "pc_n": "Potato, Onion & Tomato",
+                        "is_bby": null,
+                        "p_desc": "Onion (Loose)",
+                        "base_price": "48.00"
+                    },
+                    {
+                        "llc_n": "Potato, Onion & Tomato",
+                        "sp": "96.00",
+                        "pop_rank": 0,
+                        "gift_msg": "",
+                        "is_new": false,
+                        "pack_desc": "Multipack",
+                        "p_type": "",
+                        "attrs": {},
+                        "store_ids": [],
+                        "llc_s": "type=pc&slug=potato-onion-tomato",
+                        "j_offer_detail": {
+                            "d_avail": "true",
+                            "d_text": "30% OFF",
+                            "offer_entry_text": "",
+                            "offer_comm_enabled": "true",
+                            "offer_available": "false",
+                            "sec_price": {},
+                            "icon": {}
+                        },
+                        "sale_info": {},
+                        "sku": 1201413,
+                        "es_percent": 0,
+                        "tlc_s": "fruits-vegetables",
+                        "offer_score": 0,
+                        "p_img_url": "https://www.bigbasket.com/media/uploads/p/s/1201413_1-fresho-onion.jpg",
+                        "absolute_url": "/pd/1201413/fresho-onion-2-kg/",
+                        "display_order": 0,
+                        "dis_val": "30",
+                        "mrp": "138.00",
+                        "p_brand": "Fresho",
+                        "store_availability": [
+                            {
+                                "tab_type": "standard",
+                                "pstat": "O",
+                                "availability_info_id": "1.1",
+                                "store_id": "1"
+                            }
+                        ],
+                        "dis_t": "P",
+                        "rating_info": {
+                            "sku_id": 10000148
+                        },
+                        "es_amt": 0,
+                        "w": "2 kg",
+                        "usp": null,
+                        "pc_n": "Potato, Onion & Tomato",
+                        "tlc_n": "Fruits & Vegetables",
+                        "p_promo_info": {},
+                        "is_bby": null,
+                        "p_desc": "Onion"
+                    },
+                    {
+                        "store_availability": [
+                            {
+                                "tab_type": "standard",
+                                "pstat": "O",
+                                "availability_info_id": "1.1",
+                                "store_id": "1"
+                            },
+                            {
+                                "tab_type": "standard",
+                                "pstat": "A",
+                                "availability_info_id": "9485.1",
+                                "store_id": "9485"
+                            },
+                            {
+                                "tab_type": "standard",
+                                "pstat": "A",
+                                "availability_info_id": "3630.1",
+                                "store_id": "3630"
+                            },
+                            {
+                                "tab_type": "express",
+                                "pstat": "A",
+                                "availability_info_id": "9908.57",
+                                "store_id": "9908"
+                            },
+                            {
+                                "tab_type": "standard",
+                                "pstat": "A",
+                                "availability_info_id": "9409.1",
+                                "store_id": "9409"
+                            }
+                        ],
+                        "llc_n": "Potato, Onion & Tomato",
+                        "sp": "224.00",
+                        "base_unit": "kg",
+                        "pop_rank": 0,
+                        "gift_msg": "",
+                        "is_new": false,
+                        "pack_desc": "",
+                        "p_type": "veg",
+                        "combo_skus": [],
+                        "attrs": {},
+                        "store_ids": [],
+                        "llc_s": "type=pc&slug=potato-onion-tomato",
+                        "j_offer_detail": {
+                            "d_avail": "true",
+                            "d_text": "34% OFF",
+                            "offer_entry_text": "Har Din Sasta!",
+                            "offer_comm_enabled": "true",
+                            "offer_available": "true",
+                            "sec_price": {},
+                            "icon": {}
+                        },
+                        "sale_info": {},
+                        "sku": 10000150,
+                        "es_percent": 0,
+                        "tlc_s": "fruits-vegetables",
+                        "offer_score": 0,
+                        "p_img_url": "https://www.bigbasket.com/media/uploads/p/s/10000150_19-fresho-onion.jpg",
+                        "absolute_url": "/pd/10000150/fresho-onion-5-kg/",
+                        "display_order": 0,
+                        "dis_val": "34",
+                        "mrp": "337.00",
+                        "p_brand": "Fresho",
+                        "additional_info": {
+                            "per_unit_pack_selector": true,
+                            "per_unit_pd_page": true,
+                            "per_unit_listing_page": true,
+                            "other_app_listing": true,
+                            "other_app_pd": true
+                        },
+                        "dis_t": "P",
+                        "rating_info": {
+                            "sku_id": 10000148
+                        },
+                        "es_amt": 0,
+                        "w": "5 kg",
+                        "usp": "",
+                        "pc_n": "Potato, Onion & Tomato",
+                        "tlc_n": "Fruits & Vegetables",
+                        "p_promo_info": {},
+                        "is_bby": null,
+                        "p_desc": "Onion (Loose)",
+                        "base_price": "44.80"
+                    }
+                ],
+                "gift_msg": "",
+                "is_new": false,
+                "pack_desc": "",
+                "p_type": "veg",
+                "combo_skus": [
+                    1200045
+                ],
+                "attrs": {},
+                "store_ids": [],
+                "llc_s": "type=pc&slug=potato-onion-tomato",
+                "j_offer_detail": {
+                    "d_avail": "true",
+                    "d_text": "30% OFF",
+                    "offer_entry_text": "Har Din Sasta!",
+                    "offer_comm_enabled": "true",
+                    "offer_available": "true",
+                    "sec_price": {},
+                    "icon": {}
+                },
+                "sale_info": {},
+                "sku": 10000148,
+                "es_percent": 0,
+                "tlc_s": "fruits-vegetables",
+                "offer_score": 0,
+                "p_img_url": "https://www.bigbasket.com/media/uploads/p/s/10000148_30-fresho-onion.jpg",
+                "absolute_url": "/pd/10000148/fresho-onion-1-kg/",
+                "display_order": 0,
+                "dis_val": "30",
+                "mrp": "69.00",
+                "p_brand": "Fresho",
+                "additional_info": {
+                    "per_unit_pack_selector": false,
+                    "per_unit_pd_page": true,
+                    "per_unit_listing_page": false,
+                    "other_app_listing": false,
+                    "other_app_pd": false
+                },
+                "dis_t": "P",
+                "rating_info": {
+                    "sku_id": 10000148
+                },
+                "es_amt": 0,
+                "w": "1 kg",
+                "usp": null,
+                "pc_n": "Potato, Onion & Tomato",
+                "tlc_n": "Fruits & Vegetables",
+                "p_promo_info": {},
+                "is_bby": null,
+                "p_desc": "Onion (Loose)",
+                "base_price": "48.00"
+            },
+            {
+                "store_availability": [
+                    {
+                        "tab_type": "standard",
+                        "pstat": "O",
+                        "availability_info_id": "1.1",
+                        "store_id": "1"
+                    },
+                    {
+                        "tab_type": "standard",
+                        "pstat": "A",
+                        "availability_info_id": "3630.1",
+                        "store_id": "3630"
+                    },
+                    {
+                        "tab_type": "express",
+                        "pstat": "A",
+                        "availability_info_id": "9908.57",
+                        "store_id": "9908"
+                    },
+                    {
+                        "tab_type": "standard",
+                        "pstat": "A",
+                        "availability_info_id": "9409.1",
+                        "store_id": "9409"
+                    },
+                    {
+                        "tab_type": "standard",
+                        "pstat": "O",
+                        "availability_info_id": "9485.1",
+                        "store_id": "9485"
+                    },
+                    {
+                        "tab_type": "standard",
+                        "pstat": "O",
+                        "availability_info_id": "6655.1",
+                        "store_id": "6655"
+                    }
+                ],
+                "llc_n": "Potato, Onion & Tomato",
+                "sp": "28.00",
+                "base_unit": "kg",
+                "pop_rank": 0,
+                "all_prods": [
+                    {
+                        "store_availability": [
+                            {
+                                "tab_type": "standard",
+                                "pstat": "O",
+                                "availability_info_id": "1.1",
+                                "store_id": "1"
+                            },
+                            {
+                                "tab_type": "standard",
+                                "pstat": "A",
+                                "availability_info_id": "3630.1",
+                                "store_id": "3630"
+                            },
+                            {
+                                "tab_type": "express",
+                                "pstat": "A",
+                                "availability_info_id": "9908.57",
+                                "store_id": "9908"
+                            },
+                            {
+                                "tab_type": "standard",
+                                "pstat": "A",
+                                "availability_info_id": "9409.1",
+                                "store_id": "9409"
+                            },
+                            {
+                                "tab_type": "standard",
+                                "pstat": "O",
+                                "availability_info_id": "9485.1",
+                                "store_id": "9485"
+                            },
+                            {
+                                "tab_type": "standard",
+                                "pstat": "O",
+                                "availability_info_id": "6655.1",
+                                "store_id": "6655"
+                            }
+                        ],
+                        "llc_n": "Potato, Onion & Tomato",
+                        "dis_t": "P",
+                        "pop_rank": 0,
+                        "is_new": false,
+                        "pack_desc": "",
+                        "p_type": "veg",
+                        "attrs": {},
+                        "llc_s": "type=pc&slug=potato-onion-tomato",
+                        "sku": 10000200,
+                        "base_unit": "kg",
+                        "tlc_s": "fruits-vegetables",
+                        "p_img_url": "https://www.bigbasket.com/media/uploads/p/s/10000200_18-fresho-tomato-hybrid.jpg",
+                        "p_brand": "Fresho",
+                        "j_offer_detail": {
+                            "d_avail": "true",
+                            "d_text": "28% OFF",
+                            "offer_entry_text": "Har Din Sasta!",
+                            "offer_available": "true",
+                            "offer_comm_enabled": "true",
+                            "sec_price": {},
+                            "icon": {}
+                        },
+                        "es_percent": 0,
+                        "usp": null,
+                        "tlc_n": "Fruits & Vegetables",
+                        "p_promo_info": {},
+                        "gift_msg": "",
+                        "store_ids": [],
+                        "additional_info": {
+                            "per_unit_pack_selector": false,
+                            "per_unit_pd_page": true,
+                            "per_unit_listing_page": false,
+                            "other_app_listing": false,
+                            "other_app_pd": false
+                        },
+                        "offer_score": 0,
+                        "dis_val": "28",
+                        "sale_info": {},
+                        "display_order": 0,
+                        "sp": "28.00",
+                        "mrp": "39.00",
+                        "rating_info": {
+                            "sku_id": 10000200
+                        },
+                        "es_amt": 0,
+                        "w": "1 kg",
+                        "absolute_url": "/pd/10000200/fresho-tomato-hybrid-1-kg/",
+                        "pc_n": "Potato, Onion & Tomato",
+                        "is_bby": null,
+                        "p_desc": "Tomato - Hybrid (Loose)",
+                        "base_price": "28.00"
+                    },
+                    {
+                        "store_availability": [
+                            {
+                                "tab_type": "standard",
+                                "pstat": "O",
+                                "availability_info_id": "1.1",
+                                "store_id": "1"
+                            },
+                            {
+                                "tab_type": "standard",
+                                "pstat": "A",
+                                "availability_info_id": "9.1",
+                                "store_id": "9"
+                            },
+                            {
+                                "tab_type": "standard",
+                                "pstat": "A",
+                                "availability_info_id": "3630.1",
+                                "store_id": "3630"
+                            },
+                            {
+                                "tab_type": "express",
+                                "pstat": "A",
+                                "availability_info_id": "9908.57",
+                                "store_id": "9908"
+                            },
+                            {
+                                "tab_type": "standard",
+                                "pstat": "A",
+                                "availability_info_id": "9409.1",
+                                "store_id": "9409"
+                            },
+                            {
+                                "tab_type": "standard",
+                                "pstat": "O",
+                                "availability_info_id": "9485.1",
+                                "store_id": "9485"
+                            }
+                        ],
+                        "llc_n": "Potato, Onion & Tomato",
+                        "sp": "14.50",
+                        "base_unit": "g",
+                        "pop_rank": 0,
+                        "gift_msg": "",
+                        "is_new": false,
+                        "pack_desc": "",
+                        "p_type": "veg",
+                        "combo_skus": [],
+                        "attrs": {},
+                        "store_ids": [],
+                        "llc_s": "type=pc&slug=potato-onion-tomato",
+                        "j_offer_detail": {
+                            "d_avail": "true",
+                            "d_text": "28% OFF",
+                            "offer_entry_text": "Har Din Sasta!",
+                            "offer_comm_enabled": "true",
+                            "offer_available": "true",
+                            "sec_price": {},
+                            "icon": {}
+                        },
+                        "sale_info": {},
+                        "sku": 10000201,
+                        "es_percent": 0,
+                        "tlc_s": "fruits-vegetables",
+                        "offer_score": 0,
+                        "p_img_url": "https://www.bigbasket.com/media/uploads/p/s/10000201_15-fresho-tomato-hybrid.jpg",
+                        "absolute_url": "/pd/10000201/fresho-tomato-hybrid-500-g/",
+                        "display_order": 0,
+                        "dis_val": "28",
+                        "mrp": "20.00",
+                        "p_brand": "Fresho",
+                        "additional_info": {
+                            "per_unit_pack_selector": false,
+                            "per_unit_pd_page": true,
+                            "per_unit_listing_page": false,
+                            "other_app_listing": false,
+                            "other_app_pd": false
+                        },
+                        "dis_t": "P",
+                        "rating_info": {
+                            "sku_id": 10000200
+                        },
+                        "es_amt": 0,
+                        "w": "500 g",
+                        "usp": null,
+                        "pc_n": "Potato, Onion & Tomato",
+                        "tlc_n": "Fruits & Vegetables",
+                        "p_promo_info": {},
+                        "is_bby": null,
+                        "p_desc": "Tomato - Hybrid (Loose)",
+                        "base_price": "0.03"
+                    }
+                ],
+                "gift_msg": "",
+                "is_new": false,
+                "pack_desc": "",
+                "p_type": "veg",
+                "combo_skus": [
+                    1200045
+                ],
+                "attrs": {},
+                "store_ids": [],
+                "llc_s": "type=pc&slug=potato-onion-tomato",
+                "j_offer_detail": {
+                    "d_avail": "true",
+                    "d_text": "28% OFF",
+                    "offer_entry_text": "Har Din Sasta!",
+                    "offer_comm_enabled": "true",
+                    "offer_available": "true",
+                    "sec_price": {},
+                    "icon": {}
+                },
+                "sale_info": {},
+                "sku": 10000200,
+                "es_percent": 0,
+                "tlc_s": "fruits-vegetables",
+                "offer_score": 0,
+                "p_img_url": "https://www.bigbasket.com/media/uploads/p/s/10000200_18-fresho-tomato-hybrid.jpg",
+                "absolute_url": "/pd/10000200/fresho-tomato-hybrid-1-kg/",
+                "display_order": 0,
+                "dis_val": "28",
+                "mrp": "39.00",
+                "p_brand": "Fresho",
+                "additional_info": {
+                    "per_unit_pack_selector": false,
+                    "per_unit_pd_page": true,
+                    "per_unit_listing_page": false,
+                    "other_app_listing": false,
+                    "other_app_pd": false
+                },
+                "dis_t": "P",
+                "rating_info": {
+                    "sku_id": 10000200
+                },
+                "es_amt": 0,
+                "w": "1 kg",
+                "usp": null,
+                "pc_n": "Potato, Onion & Tomato",
+                "tlc_n": "Fruits & Vegetables",
+                "p_promo_info": {},
+                "is_bby": null,
+                "p_desc": "Tomato - Hybrid (Loose)",
+                "base_price": "28.00"
+            },
+            {
+                "store_availability": [
+                    {
+                        "tab_type": "standard",
+                        "pstat": "O",
+                        "availability_info_id": "1.1",
+                        "store_id": "1"
+                    },
+                    {
+                        "tab_type": "standard",
+                        "pstat": "A",
+                        "availability_info_id": "3630.1",
+                        "store_id": "3630"
+                    },
+                    {
+                        "tab_type": "express",
+                        "pstat": "A",
+                        "availability_info_id": "9908.57",
+                        "store_id": "9908"
+                    },
+                    {
+                        "tab_type": "standard",
+                        "pstat": "A",
+                        "availability_info_id": "9409.1",
+                        "store_id": "9409"
+                    },
+                    {
+                        "tab_type": "standard",
+                        "pstat": "A",
+                        "availability_info_id": "9485.1",
+                        "store_id": "9485"
+                    }
+                ],
+                "llc_n": "Potato, Onion & Tomato",
+                "sp": "27.00",
+                "base_unit": "kg",
+                "pop_rank": 0,
+                "all_prods": [
+                    {
+                        "store_availability": [
+                            {
+                                "tab_type": "standard",
+                                "pstat": "O",
+                                "availability_info_id": "1.1",
+                                "store_id": "1"
+                            },
+                            {
+                                "tab_type": "standard",
+                                "pstat": "A",
+                                "availability_info_id": "3630.1",
+                                "store_id": "3630"
+                            },
+                            {
+                                "tab_type": "express",
+                                "pstat": "A",
+                                "availability_info_id": "9908.57",
+                                "store_id": "9908"
+                            },
+                            {
+                                "tab_type": "standard",
+                                "pstat": "A",
+                                "availability_info_id": "9409.1",
+                                "store_id": "9409"
+                            },
+                            {
+                                "tab_type": "standard",
+                                "pstat": "A",
+                                "availability_info_id": "9485.1",
+                                "store_id": "9485"
+                            }
+                        ],
+                        "llc_n": "Potato, Onion & Tomato",
+                        "dis_t": "P",
+                        "pop_rank": 0,
+                        "is_new": false,
+                        "pack_desc": "",
+                        "p_type": "veg",
+                        "attrs": {},
+                        "llc_s": "type=pc&slug=potato-onion-tomato",
+                        "combo_skus": [],
+                        "sku": 10000203,
+                        "base_unit": "kg",
+                        "tlc_s": "fruits-vegetables",
+                        "p_img_url": "https://www.bigbasket.com/media/uploads/p/s/10000203_16-fresho-tomato-local.jpg",
+                        "p_brand": "Fresho",
+                        "j_offer_detail": {
+                            "d_avail": "true",
+                            "d_text": "27% OFF",
+                            "offer_entry_text": "Har Din Sasta!",
+                            "offer_available": "true",
+                            "offer_comm_enabled": "true",
+                            "sec_price": {},
+                            "icon": {}
+                        },
+                        "es_percent": 0,
+                        "usp": null,
+                        "tlc_n": "Fruits & Vegetables",
+                        "p_promo_info": {},
+                        "gift_msg": "",
+                        "store_ids": [],
+                        "additional_info": {
+                            "per_unit_pack_selector": false,
+                            "per_unit_pd_page": true,
+                            "per_unit_listing_page": false,
+                            "other_app_listing": false,
+                            "other_app_pd": false
+                        },
+                        "offer_score": 0,
+                        "dis_val": "27",
+                        "sale_info": {},
+                        "display_order": 0,
+                        "sp": "27.00",
+                        "mrp": "37.00",
+                        "rating_info": {
+                            "sku_id": 10000203
+                        },
+                        "es_amt": 0,
+                        "w": "1 kg",
+                        "absolute_url": "/pd/10000203/fresho-tomato-local-1-kg/",
+                        "pc_n": "Potato, Onion & Tomato",
+                        "is_bby": null,
+                        "p_desc": "Tomato - Local (Loose)",
+                        "base_price": "27.00"
+                    },
+                    {
+                        "store_availability": [
+                            {
+                                "tab_type": "standard",
+                                "pstat": "O",
+                                "availability_info_id": "1.1",
+                                "store_id": "1"
+                            },
+                            {
+                                "tab_type": "standard",
+                                "pstat": "A",
+                                "availability_info_id": "3630.1",
+                                "store_id": "3630"
+                            },
+                            {
+                                "tab_type": "express",
+                                "pstat": "A",
+                                "availability_info_id": "9908.57",
+                                "store_id": "9908"
+                            },
+                            {
+                                "tab_type": "standard",
+                                "pstat": "A",
+                                "availability_info_id": "9409.1",
+                                "store_id": "9409"
+                            },
+                            {
+                                "tab_type": "standard",
+                                "pstat": "A",
+                                "availability_info_id": "9485.1",
+                                "store_id": "9485"
+                            }
+                        ],
+                        "llc_n": "Potato, Onion & Tomato",
+                        "sp": "13.50",
+                        "base_unit": "g",
+                        "pop_rank": 0,
+                        "gift_msg": "",
+                        "is_new": false,
+                        "pack_desc": "",
+                        "p_type": "veg",
+                        "combo_skus": [],
+                        "attrs": {},
+                        "store_ids": [],
+                        "llc_s": "type=pc&slug=potato-onion-tomato",
+                        "j_offer_detail": {
+                            "d_avail": "true",
+                            "d_text": "33% OFF",
+                            "offer_entry_text": "Har Din Sasta!",
+                            "offer_comm_enabled": "true",
+                            "offer_available": "true",
+                            "sec_price": {},
+                            "icon": {}
+                        },
+                        "sale_info": {},
+                        "sku": 10000204,
+                        "es_percent": 0,
+                        "tlc_s": "fruits-vegetables",
+                        "offer_score": 0,
+                        "p_img_url": "https://www.bigbasket.com/media/uploads/p/s/10000204_16-fresho-tomato-local.jpg",
+                        "absolute_url": "/pd/10000204/fresho-tomato-local-500-g/",
+                        "display_order": 0,
+                        "dis_val": "33",
+                        "mrp": "20.00",
+                        "p_brand": "Fresho",
+                        "additional_info": {
+                            "per_unit_pack_selector": false,
+                            "per_unit_pd_page": true,
+                            "per_unit_listing_page": false,
+                            "other_app_listing": false,
+                            "other_app_pd": false
+                        },
+                        "dis_t": "P",
+                        "rating_info": {
+                            "sku_id": 10000203
+                        },
+                        "es_amt": 0,
+                        "w": "500 g",
+                        "usp": null,
+                        "pc_n": "Potato, Onion & Tomato",
+                        "tlc_n": "Fruits & Vegetables",
+                        "p_promo_info": {},
+                        "is_bby": null,
+                        "p_desc": "Tomato - Local (Loose)",
+                        "base_price": "0.03"
+                    }
+                ],
+                "gift_msg": "",
+                "is_new": false,
+                "pack_desc": "",
+                "p_type": "veg",
+                "combo_skus": [],
+                "attrs": {},
+                "store_ids": [],
+                "llc_s": "type=pc&slug=potato-onion-tomato",
+                "j_offer_detail": {
+                    "d_avail": "true",
+                    "d_text": "27% OFF",
+                    "offer_entry_text": "Har Din Sasta!",
+                    "offer_comm_enabled": "true",
+                    "offer_available": "true",
+                    "sec_price": {},
+                    "icon": {}
+                },
+                "sale_info": {},
+                "sku": 10000203,
+                "es_percent": 0,
+                "tlc_s": "fruits-vegetables",
+                "offer_score": 0,
+                "p_img_url": "https://www.bigbasket.com/media/uploads/p/s/10000203_16-fresho-tomato-local.jpg",
+                "absolute_url": "/pd/10000203/fresho-tomato-local-1-kg/",
+                "display_order": 0,
+                "dis_val": "27",
+                "mrp": "37.00",
+                "p_brand": "Fresho",
+                "additional_info": {
+                    "per_unit_pack_selector": false,
+                    "per_unit_pd_page": true,
+                    "per_unit_listing_page": false,
+                    "other_app_listing": false,
+                    "other_app_pd": false
+                },
+                "dis_t": "P",
+                "rating_info": {
+                    "sku_id": 10000203
+                },
+                "es_amt": 0,
+                "w": "1 kg",
+                "usp": null,
+                "pc_n": "Potato, Onion & Tomato",
+                "tlc_n": "Fruits & Vegetables",
+                "p_promo_info": {},
+                "is_bby": null,
+                "p_desc": "Tomato - Local (Loose)",
+                "base_price": "27.00"
+            },
+            {
+                "store_availability": [
+                    {
+                        "tab_type": "standard",
+                        "pstat": "O",
+                        "availability_info_id": "1.1",
+                        "store_id": "1"
+                    },
+                    {
+                        "tab_type": "standard",
+                        "pstat": "A",
+                        "availability_info_id": "3630.1",
+                        "store_id": "3630"
+                    },
+                    {
+                        "tab_type": "express",
+                        "pstat": "A",
+                        "availability_info_id": "9908.57",
+                        "store_id": "9908"
+                    },
+                    {
+                        "tab_type": "standard",
+                        "pstat": "A",
+                        "availability_info_id": "9409.1",
+                        "store_id": "9409"
+                    },
+                    {
+                        "tab_type": "standard",
+                        "pstat": "O",
+                        "availability_info_id": "9485.1",
+                        "store_id": "9485"
+                    }
+                ],
+                "llc_n": "Beans, Brinjals & Okra",
+                "sp": "32.00",
+                "base_unit": "g",
+                "pop_rank": 0,
+                "all_prods": [
+                    {
+                        "store_availability": [
+                            {
+                                "tab_type": "standard",
+                                "pstat": "O",
+                                "availability_info_id": "1.1",
+                                "store_id": "1"
+                            },
+                            {
+                                "tab_type": "standard",
+                                "pstat": "A",
+                                "availability_info_id": "3630.1",
+                                "store_id": "3630"
+                            },
+                            {
+                                "tab_type": "express",
+                                "pstat": "A",
+                                "availability_info_id": "9908.57",
+                                "store_id": "9908"
+                            },
+                            {
+                                "tab_type": "standard",
+                                "pstat": "A",
+                                "availability_info_id": "9409.1",
+                                "store_id": "9409"
+                            },
+                            {
+                                "tab_type": "standard",
+                                "pstat": "O",
+                                "availability_info_id": "6655.1",
+                                "store_id": "6655"
+                            }
+                        ],
+                        "llc_n": "Beans, Brinjals & Okra",
+                        "sp": "63.00",
+                        "base_unit": "kg",
+                        "pop_rank": 0,
+                        "gift_msg": "",
+                        "is_new": false,
+                        "pack_desc": "",
+                        "p_type": "veg",
+                        "combo_skus": [],
+                        "attrs": {},
+                        "store_ids": [],
+                        "llc_s": "type=pc&slug=beans-brinjals-okra",
+                        "j_offer_detail": {
+                            "d_avail": "true",
+                            "d_text": "30% OFF",
+                            "offer_entry_text": "Har Din Sasta!",
+                            "offer_comm_enabled": "true",
+                            "offer_available": "true",
+                            "sec_price": {},
+                            "icon": {}
+                        },
+                        "sale_info": {},
+                        "sku": 40089741,
+                        "es_percent": 0,
+                        "tlc_s": "fruits-vegetables",
+                        "offer_score": 0,
+                        "p_img_url": "https://www.bigbasket.com/media/uploads/p/s/40089741_2-fresho-beans-haricot.jpg",
+                        "absolute_url": "/pd/40089741/fresho-beans-haricot-1-kg/",
+                        "display_order": 0,
+                        "dis_val": "30",
+                        "mrp": "90.00",
+                        "p_brand": "Fresho",
+                        "additional_info": {
+                            "per_unit_pack_selector": false,
+                            "per_unit_pd_page": true,
+                            "per_unit_listing_page": false,
+                            "other_app_listing": false,
+                            "other_app_pd": false
+                        },
+                        "dis_t": "P",
+                        "rating_info": {
+                            "sku_id": 40089741
+                        },
+                        "es_amt": 0,
+                        "w": "1 kg",
+                        "usp": null,
+                        "pc_n": "Beans, Brinjals & Okra",
+                        "tlc_n": "Fruits & Vegetables",
+                        "p_promo_info": {},
+                        "is_bby": null,
+                        "p_desc": "Beans - Haricot (Loose)",
+                        "base_price": "63.00"
+                    },
+                    {
+                        "store_availability": [
+                            {
+                                "tab_type": "standard",
+                                "pstat": "O",
+                                "availability_info_id": "1.1",
+                                "store_id": "1"
+                            },
+                            {
+                                "tab_type": "standard",
+                                "pstat": "A",
+                                "availability_info_id": "3630.1",
+                                "store_id": "3630"
+                            },
+                            {
+                                "tab_type": "express",
+                                "pstat": "A",
+                                "availability_info_id": "9908.57",
+                                "store_id": "9908"
+                            },
+                            {
+                                "tab_type": "standard",
+                                "pstat": "A",
+                                "availability_info_id": "9409.1",
+                                "store_id": "9409"
+                            },
+                            {
+                                "tab_type": "standard",
+                                "pstat": "O",
+                                "availability_info_id": "9485.1",
+                                "store_id": "9485"
+                            }
+                        ],
+                        "llc_n": "Beans, Brinjals & Okra",
+                        "dis_t": "P",
+                        "pop_rank": 0,
+                        "is_new": false,
+                        "pack_desc": "",
+                        "p_type": "veg",
+                        "attrs": {},
+                        "llc_s": "type=pc&slug=beans-brinjals-okra",
+                        "combo_skus": [],
+                        "sku": 40089742,
+                        "base_unit": "g",
+                        "tlc_s": "fruits-vegetables",
+                        "p_img_url": "https://www.bigbasket.com/media/uploads/p/s/40089742_2-fresho-beans-haricot.jpg",
+                        "p_brand": "Fresho",
+                        "j_offer_detail": {
+                            "d_avail": "true",
+                            "d_text": "30% OFF",
+                            "offer_entry_text": "Har Din Sasta!",
+                            "offer_available": "true",
+                            "offer_comm_enabled": "true",
+                            "sec_price": {},
+                            "icon": {}
+                        },
+                        "es_percent": 0,
+                        "usp": null,
+                        "tlc_n": "Fruits & Vegetables",
+                        "p_promo_info": {},
+                        "gift_msg": "",
+                        "store_ids": [],
+                        "additional_info": {
+                            "per_unit_pack_selector": false,
+                            "per_unit_pd_page": true,
+                            "per_unit_listing_page": false,
+                            "other_app_listing": false,
+                            "other_app_pd": false
+                        },
+                        "offer_score": 0,
+                        "dis_val": "30",
+                        "sale_info": {},
+                        "display_order": 0,
+                        "sp": "32.00",
+                        "mrp": "46.00",
+                        "rating_info": {
+                            "sku_id": 40089741
+                        },
+                        "es_amt": 0,
+                        "w": "500 g",
+                        "absolute_url": "/pd/40089742/fresho-beans-haricot-500-g/",
+                        "pc_n": "Beans, Brinjals & Okra",
+                        "is_bby": null,
+                        "p_desc": "Beans - Haricot (Loose)",
+                        "base_price": "0.06"
+                    },
+                    {
+                        "store_availability": [
+                            {
+                                "tab_type": "standard",
+                                "pstat": "O",
+                                "availability_info_id": "1.1",
+                                "store_id": "1"
+                            },
+                            {
+                                "tab_type": "standard",
+                                "pstat": "A",
+                                "availability_info_id": "3630.1",
+                                "store_id": "3630"
+                            },
+                            {
+                                "tab_type": "express",
+                                "pstat": "A",
+                                "availability_info_id": "9908.57",
+                                "store_id": "9908"
+                            },
+                            {
+                                "tab_type": "standard",
+                                "pstat": "A",
+                                "availability_info_id": "9409.1",
+                                "store_id": "9409"
+                            },
+                            {
+                                "tab_type": "standard",
+                                "pstat": "O",
+                                "availability_info_id": "9485.1",
+                                "store_id": "9485"
+                            }
+                        ],
+                        "llc_n": "Beans, Brinjals & Okra",
+                        "sp": "16.00",
+                        "base_unit": "g",
+                        "pop_rank": 0,
+                        "gift_msg": "",
+                        "is_new": false,
+                        "pack_desc": "",
+                        "p_type": "veg",
+                        "combo_skus": [],
+                        "attrs": {},
+                        "store_ids": [],
+                        "llc_s": "type=pc&slug=beans-brinjals-okra",
+                        "j_offer_detail": {
+                            "d_avail": "true",
+                            "d_text": "33% OFF",
+                            "offer_entry_text": "Har Din Sasta!",
+                            "offer_comm_enabled": "true",
+                            "offer_available": "true",
+                            "sec_price": {},
+                            "icon": {}
+                        },
+                        "sale_info": {},
+                        "sku": 40089743,
+                        "es_percent": 0,
+                        "tlc_s": "fruits-vegetables",
+                        "offer_score": 0,
+                        "p_img_url": "https://www.bigbasket.com/media/uploads/p/s/40089743_2-fresho-beans-haricot.jpg",
+                        "absolute_url": "/pd/40089743/fresho-beans-haricot-250-g/",
+                        "display_order": 0,
+                        "dis_val": "33",
+                        "mrp": "24.00",
+                        "p_brand": "Fresho",
+                        "additional_info": {
+                            "per_unit_pack_selector": false,
+                            "per_unit_pd_page": true,
+                            "per_unit_listing_page": false,
+                            "other_app_listing": false,
+                            "other_app_pd": false
+                        },
+                        "dis_t": "P",
+                        "rating_info": {
+                            "sku_id": 40089741
+                        },
+                        "es_amt": 0,
+                        "w": "250 g",
+                        "usp": null,
+                        "pc_n": "Beans, Brinjals & Okra",
+                        "tlc_n": "Fruits & Vegetables",
+                        "p_promo_info": {},
+                        "is_bby": null,
+                        "p_desc": "Beans - Haricot (Loose)",
+                        "base_price": "0.06"
+                    }
+                ],
+                "gift_msg": "",
+                "is_new": false,
+                "pack_desc": "",
+                "p_type": "veg",
+                "combo_skus": [],
+                "attrs": {},
+                "store_ids": [],
+                "llc_s": "type=pc&slug=beans-brinjals-okra",
+                "j_offer_detail": {
+                    "d_avail": "true",
+                    "d_text": "30% OFF",
+                    "offer_entry_text": "Har Din Sasta!",
+                    "offer_comm_enabled": "true",
+                    "offer_available": "true",
+                    "sec_price": {},
+                    "icon": {}
+                },
+                "sale_info": {},
+                "sku": 40089742,
+                "es_percent": 0,
+                "tlc_s": "fruits-vegetables",
+                "offer_score": 0,
+                "p_img_url": "https://www.bigbasket.com/media/uploads/p/s/40089742_2-fresho-beans-haricot.jpg",
+                "absolute_url": "/pd/40089742/fresho-beans-haricot-500-g/",
+                "display_order": 0,
+                "dis_val": "30",
+                "mrp": "46.00",
+                "p_brand": "Fresho",
+                "additional_info": {
+                    "per_unit_pack_selector": false,
+                    "per_unit_pd_page": true,
+                    "per_unit_listing_page": false,
+                    "other_app_listing": false,
+                    "other_app_pd": false
+                },
+                "dis_t": "P",
+                "rating_info": {
+                    "sku_id": 40089741
+                },
+                "es_amt": 0,
+                "w": "500 g",
+                "usp": null,
+                "pc_n": "Beans, Brinjals & Okra",
+                "tlc_n": "Fruits & Vegetables",
+                "p_promo_info": {},
+                "is_bby": null,
+                "p_desc": "Beans - Haricot (Loose)",
+                "base_price": "0.06"
+            },
+            {
+                "store_availability": [
+                    {
+                        "tab_type": "standard",
+                        "pstat": "O",
+                        "availability_info_id": "1.1",
+                        "store_id": "1"
+                    },
+                    {
+                        "tab_type": "standard",
+                        "pstat": "A",
+                        "availability_info_id": "10630.1",
+                        "store_id": "10630"
+                    },
+                    {
+                        "tab_type": "standard",
+                        "pstat": "A",
+                        "availability_info_id": "3630.1",
+                        "store_id": "3630"
+                    },
+                    {
+                        "tab_type": "express",
+                        "pstat": "A",
+                        "availability_info_id": "9908.57",
+                        "store_id": "9908"
+                    },
+                    {
+                        "tab_type": "standard",
+                        "pstat": "A",
+                        "availability_info_id": "6655.1",
+                        "store_id": "6655"
+                    },
+                    {
+                        "tab_type": "standard",
+                        "pstat": "O",
+                        "availability_info_id": "9409.1",
+                        "store_id": "9409"
+                    },
+                    {
+                        "tab_type": "standard",
+                        "pstat": "O",
+                        "availability_info_id": "9424.1",
+                        "store_id": "9424"
+                    }
+                ],
+                "llc_n": "Atta Whole Wheat",
+                "sp": "461.00",
+                "base_unit": "kg",
+                "pop_rank": 0,
+                "all_prods": [
+                    {
+                        "store_availability": [
+                            {
+                                "tab_type": "standard",
+                                "pstat": "O",
+                                "availability_info_id": "1.1",
+                                "store_id": "1"
+                            },
+                            {
+                                "tab_type": "standard",
+                                "pstat": "A",
+                                "availability_info_id": "10630.1",
+                                "store_id": "10630"
+                            },
+                            {
+                                "tab_type": "standard",
+                                "pstat": "A",
+                                "availability_info_id": "3630.1",
+                                "store_id": "3630"
+                            },
+                            {
+                                "tab_type": "express",
+                                "pstat": "A",
+                                "availability_info_id": "9908.57",
+                                "store_id": "9908"
+                            },
+                            {
+                                "tab_type": "standard",
+                                "pstat": "A",
+                                "availability_info_id": "6655.1",
+                                "store_id": "6655"
+                            },
+                            {
+                                "tab_type": "standard",
+                                "pstat": "O",
+                                "availability_info_id": "9409.1",
+                                "store_id": "9409"
+                            },
+                            {
+                                "tab_type": "standard",
+                                "pstat": "O",
+                                "availability_info_id": "9424.1",
+                                "store_id": "9424"
+                            }
+                        ],
+                        "llc_n": "Atta Whole Wheat",
+                        "dis_t": "P",
+                        "pop_rank": 0,
+                        "is_new": false,
+                        "pack_desc": "",
+                        "p_type": "veg",
+                        "attrs": {},
+                        "llc_s": "type=pc&slug=atta-whole-wheat",
+                        "combo_skus": [],
+                        "sku": 126906,
+                        "base_unit": "kg",
+                        "tlc_s": "foodgrains-oil-masala",
+                        "p_img_url": "https://www.bigbasket.com/media/uploads/p/s/126906_8-aashirvaad-atta-whole-wheat.jpg",
+                        "p_brand": "Aashirvaad",
+                        "j_offer_detail": {
+                            "d_avail": "true",
+                            "d_text": "20% OFF",
+                            "offer_entry_text": "Har Din Sasta!",
+                            "offer_available": "true",
+                            "offer_comm_enabled": "true",
+                            "sec_price": {},
+                            "icon": {}
+                        },
+                        "es_percent": 0,
+                        "usp": "0% Maida, 100% Atta",
+                        "tlc_n": "Foodgrains, Oil & Masala",
+                        "p_promo_info": {},
+                        "gift_msg": "",
+                        "store_ids": [],
+                        "additional_info": {
+                            "per_unit_pack_selector": true,
+                            "per_unit_pd_page": true,
+                            "per_unit_listing_page": true,
+                            "other_app_listing": true,
+                            "other_app_pd": true
+                        },
+                        "offer_score": 0,
+                        "dis_val": "20",
+                        "sale_info": {},
+                        "display_order": 0,
+                        "sp": "461.00",
+                        "mrp": "576.00",
+                        "rating_info": {
+                            "sku_id": 30006887,
+                            "avg_rating": 4.1,
+                            "rating_count": 1753,
+                            "review_count": 39
+                        },
+                        "es_amt": 0,
+                        "w": "10 kg",
+                        "absolute_url": "/pd/126906/aashirvaad-atta-whole-wheat-10-kg-pouch/",
+                        "pc_n": "Atta Whole Wheat",
+                        "is_bby": null,
+                        "p_desc": "Atta/Godihittu - Whole Wheat",
+                        "base_price": "46.10"
+                    },
+                    {
+                        "store_availability": [
+                            {
+                                "tab_type": "standard",
+                                "pstat": "O",
+                                "availability_info_id": "1.1",
+                                "store_id": "1"
+                            },
+                            {
+                                "tab_type": "standard",
+                                "pstat": "A",
+                                "availability_info_id": "3630.1",
+                                "store_id": "3630"
+                            },
+                            {
+                                "tab_type": "express",
+                                "pstat": "A",
+                                "availability_info_id": "9908.57",
+                                "store_id": "9908"
+                            },
+                            {
+                                "tab_type": "standard",
+                                "pstat": "O",
+                                "availability_info_id": "9485.1",
+                                "store_id": "9485"
+                            },
+                            {
+                                "tab_type": "standard",
+                                "pstat": "O",
+                                "availability_info_id": "9409.1",
+                                "store_id": "9409"
+                            },
+                            {
+                                "tab_type": "standard",
+                                "pstat": "O",
+                                "availability_info_id": "9424.1",
+                                "store_id": "9424"
+                            },
+                            {
+                                "tab_type": "standard",
+                                "pstat": "O",
+                                "availability_info_id": "6655.1",
+                                "store_id": "6655"
+                            }
+                        ],
+                        "llc_n": "Atta Whole Wheat",
+                        "sp": "284.55",
+                        "base_unit": "kg",
+                        "pop_rank": 0,
+                        "gift_msg": "",
+                        "is_new": false,
+                        "pack_desc": "",
+                        "p_type": "veg",
+                        "combo_skus": [],
+                        "attrs": {},
+                        "store_ids": [],
+                        "llc_s": "type=pc&slug=atta-whole-wheat",
+                        "j_offer_detail": {
+                            "d_avail": "true",
+                            "d_text": "11% OFF",
+                            "offer_entry_text": "",
+                            "offer_comm_enabled": "true",
+                            "offer_available": "false",
+                            "sec_price": {},
+                            "icon": {}
+                        },
+                        "sale_info": {},
+                        "sku": 126903,
+                        "es_percent": 0,
+                        "tlc_s": "foodgrains-oil-masala",
+                        "offer_score": 0,
+                        "p_img_url": "https://www.bigbasket.com/media/uploads/p/s/126903_9-aashirvaad-atta-whole-wheat.jpg",
+                        "absolute_url": "/pd/126903/aashirvaad-atta-whole-wheat-5-kg-pouch/",
+                        "display_order": 0,
+                        "dis_val": "11",
+                        "mrp": "318.00",
+                        "p_brand": "Aashirvaad",
+                        "additional_info": {
+                            "per_unit_pack_selector": true,
+                            "per_unit_pd_page": true,
+                            "per_unit_listing_page": true,
+                            "other_app_listing": true,
+                            "other_app_pd": true
+                        },
+                        "dis_t": "P",
+                        "rating_info": {
+                            "rating_count": 59186,
+                            "avg_rating": 4.1,
+                            "sku_id": 30006887,
+                            "review_count": 1023
+                        },
+                        "es_amt": 0,
+                        "w": "5 kg",
+                        "usp": "0% Maida, 100% Atta",
+                        "pc_n": "Atta Whole Wheat",
+                        "tlc_n": "Foodgrains, Oil & Masala",
+                        "p_promo_info": {},
+                        "is_bby": null,
+                        "p_desc": "Atta/Godihittu - Whole Wheat",
+                        "base_price": "56.91"
+                    },
+                    {
+                        "store_availability": [
+                            {
+                                "tab_type": "standard",
+                                "pstat": "O",
+                                "availability_info_id": "1.1",
+                                "store_id": "1"
+                            },
+                            {
+                                "tab_type": "standard",
+                                "pstat": "A",
+                                "availability_info_id": "10630.1",
+                                "store_id": "10630"
+                            },
+                            {
+                                "tab_type": "standard",
+                                "pstat": "A",
+                                "availability_info_id": "9.1",
+                                "store_id": "9"
+                            },
+                            {
+                                "tab_type": "standard",
+                                "pstat": "A",
+                                "availability_info_id": "3630.1",
+                                "store_id": "3630"
+                            },
+                            {
+                                "tab_type": "express",
+                                "pstat": "A",
+                                "availability_info_id": "9908.57",
+                                "store_id": "9908"
+                            },
+                            {
+                                "tab_type": "standard",
+                                "pstat": "A",
+                                "availability_info_id": "6655.1",
+                                "store_id": "6655"
+                            },
+                            {
+                                "tab_type": "standard",
+                                "pstat": "O",
+                                "availability_info_id": "9485.1",
+                                "store_id": "9485"
+                            },
+                            {
+                                "tab_type": "standard",
+                                "pstat": "O",
+                                "availability_info_id": "9409.1",
+                                "store_id": "9409"
+                            }
+                        ],
+                        "llc_n": "Atta Whole Wheat",
+                        "sp": "117.98",
+                        "base_unit": "kg",
+                        "pop_rank": 0,
+                        "gift_msg": "",
+                        "is_new": false,
+                        "pack_desc": "",
+                        "p_type": "veg",
+                        "combo_skus": [],
+                        "attrs": {},
+                        "store_ids": [],
+                        "llc_s": "type=pc&slug=atta-whole-wheat",
+                        "j_offer_detail": {
+                            "d_avail": "true",
+                            "d_text": "₹7 OFF",
+                            "offer_entry_text": "",
+                            "offer_comm_enabled": "true",
+                            "offer_available": "false",
+                            "sec_price": {},
+                            "icon": {}
+                        },
+                        "sale_info": {},
+                        "sku": 161826,
+                        "es_percent": 0,
+                        "tlc_s": "foodgrains-oil-masala",
+                        "offer_score": 0,
+                        "p_img_url": "https://www.bigbasket.com/media/uploads/p/s/161826_8-aashirvaad-atta-whole-wheat.jpg",
+                        "absolute_url": "/pd/161826/aashirvaad-atta-whole-wheat-2-kg-pouch/",
+                        "display_order": 0,
+                        "dis_val": "7",
+                        "mrp": "125.00",
+                        "p_brand": "Aashirvaad",
+                        "additional_info": {
+                            "per_unit_pack_selector": true,
+                            "per_unit_pd_page": true,
+                            "per_unit_listing_page": true,
+                            "other_app_listing": true,
+                            "other_app_pd": true
+                        },
+                        "dis_t": "A",
+                        "rating_info": {
+                            "rating_count": 59186,
+                            "avg_rating": 4.1,
+                            "sku_id": 30006887,
+                            "review_count": 1023
+                        },
+                        "es_amt": 0,
+                        "w": "2 kg",
+                        "usp": "0% Maida, 100% Atta",
+                        "pc_n": "Atta Whole Wheat",
+                        "tlc_n": "Foodgrains, Oil & Masala",
+                        "p_promo_info": {},
+                        "is_bby": null,
+                        "p_desc": "Atta/Godihittu - Whole Wheat",
+                        "base_price": "58.99"
+                    },
+                    {
+                        "store_availability": [
+                            {
+                                "tab_type": "standard",
+                                "pstat": "O",
+                                "availability_info_id": "1.1",
+                                "store_id": "1"
+                            },
+                            {
+                                "tab_type": "standard",
+                                "pstat": "A",
+                                "availability_info_id": "3630.1",
+                                "store_id": "3630"
+                            },
+                            {
+                                "tab_type": "express",
+                                "pstat": "A",
+                                "availability_info_id": "9908.57",
+                                "store_id": "9908"
+                            },
+                            {
+                                "tab_type": "standard",
+                                "pstat": "O",
+                                "availability_info_id": "9485.1",
+                                "store_id": "9485"
+                            },
+                            {
+                                "tab_type": "standard",
+                                "pstat": "O",
+                                "availability_info_id": "9409.1",
+                                "store_id": "9409"
+                            },
+                            {
+                                "tab_type": "standard",
+                                "pstat": "O",
+                                "availability_info_id": "9424.1",
+                                "store_id": "9424"
+                            }
+                        ],
+                        "llc_n": "Atta Whole Wheat",
+                        "sp": "63.38",
+                        "base_unit": "kg",
+                        "pop_rank": 0,
+                        "gift_msg": "",
+                        "is_new": false,
+                        "pack_desc": "",
+                        "p_type": "veg",
+                        "combo_skus": [],
+                        "attrs": {},
+                        "store_ids": [],
+                        "llc_s": "type=pc&slug=atta-whole-wheat",
+                        "j_offer_detail": {
+                            "d_avail": "true",
+                            "d_text": "5% OFF",
+                            "offer_entry_text": "",
+                            "offer_comm_enabled": "true",
+                            "offer_available": "false",
+                            "sec_price": {},
+                            "icon": {}
+                        },
+                        "sale_info": {},
+                        "sku": 30006887,
+                        "es_percent": 0,
+                        "tlc_s": "foodgrains-oil-masala",
+                        "offer_score": 0,
+                        "p_img_url": "https://www.bigbasket.com/media/uploads/p/s/30006887_7-aashirvaad-atta-whole-wheat.jpg",
+                        "absolute_url": "/pd/30006887/aashirvaad-atta-whole-wheat-1-kg-pouch/",
+                        "display_order": 0,
+                        "dis_val": "5",
+                        "mrp": "67.00",
+                        "p_brand": "Aashirvaad",
+                        "additional_info": {
+                            "per_unit_pack_selector": true,
+                            "per_unit_pd_page": true,
+                            "per_unit_listing_page": true,
+                            "other_app_listing": true,
+                            "other_app_pd": true
+                        },
+                        "dis_t": "P",
+                        "rating_info": {
+                            "rating_count": 59186,
+                            "avg_rating": 4.1,
+                            "sku_id": 30006887,
+                            "review_count": 1023
+                        },
+                        "es_amt": 0,
+                        "w": "1 kg",
+                        "usp": "0% Maida, 100% Atta",
+                        "pc_n": "Atta Whole Wheat",
+                        "tlc_n": "Foodgrains, Oil & Masala",
+                        "p_promo_info": {},
+                        "is_bby": null,
+                        "p_desc": "Atta/Godihittu - Whole Wheat",
+                        "base_price": "63.38"
+                    }
+                ],
+                "gift_msg": "",
+                "is_new": false,
+                "pack_desc": "",
+                "p_type": "veg",
+                "combo_skus": [],
+                "attrs": {},
+                "store_ids": [],
+                "llc_s": "type=pc&slug=atta-whole-wheat",
+                "j_offer_detail": {
+                    "d_avail": "true",
+                    "d_text": "20% OFF",
+                    "offer_entry_text": "Har Din Sasta!",
+                    "offer_comm_enabled": "true",
+                    "offer_available": "true",
+                    "sec_price": {},
+                    "icon": {}
+                },
+                "sale_info": {},
+                "sku": 126906,
+                "es_percent": 0,
+                "tlc_s": "foodgrains-oil-masala",
+                "offer_score": 0,
+                "p_img_url": "https://www.bigbasket.com/media/uploads/p/s/126906_8-aashirvaad-atta-whole-wheat.jpg",
+                "absolute_url": "/pd/126906/aashirvaad-atta-whole-wheat-10-kg-pouch/",
+                "display_order": 0,
+                "dis_val": "20",
+                "mrp": "576.00",
+                "p_brand": "Aashirvaad",
+                "additional_info": {
+                    "per_unit_pack_selector": true,
+                    "per_unit_pd_page": true,
+                    "per_unit_listing_page": true,
+                    "other_app_listing": true,
+                    "other_app_pd": true
+                },
+                "dis_t": "P",
+                "rating_info": {
+                    "rating_count": 1753,
+                    "avg_rating": 4.1,
+                    "sku_id": 30006887,
+                    "review_count": 39
+                },
+                "es_amt": 0,
+                "w": "10 kg",
+                "usp": "0% Maida, 100% Atta",
+                "pc_n": "Atta Whole Wheat",
+                "tlc_n": "Foodgrains, Oil & Masala",
+                "p_promo_info": {},
+                "is_bby": null,
+                "p_desc": "Atta/Godihittu - Whole Wheat",
+                "base_price": "46.10"
+            },
+            {
+                "store_availability": [
+                    {
+                        "tab_type": "standard",
+                        "pstat": "A",
+                        "availability_info_id": "9.1",
+                        "store_id": "9"
+                    },
+                    {
+                        "tab_type": "standard",
+                        "pstat": "A",
+                        "availability_info_id": "3630.1",
+                        "store_id": "3630"
+                    },
+                    {
+                        "tab_type": "express",
+                        "pstat": "A",
+                        "availability_info_id": "9908.57",
+                        "store_id": "9908"
+                    },
+                    {
+                        "tab_type": "standard",
+                        "pstat": "A",
+                        "availability_info_id": "6655.1",
+                        "store_id": "6655"
+                    },
+                    {
+                        "tab_type": "standard",
+                        "pstat": "O",
+                        "availability_info_id": "1.1",
+                        "store_id": "1"
+                    },
+                    {
+                        "tab_type": "standard",
+                        "pstat": "O",
+                        "availability_info_id": "9409.1",
+                        "store_id": "9409"
+                    },
+                    {
+                        "tab_type": "standard",
+                        "pstat": "O",
+                        "availability_info_id": "9424.1",
+                        "store_id": "9424"
+                    },
+                    {
+                        "tab_type": "standard",
+                        "pstat": "O",
+                        "availability_info_id": "9485.1",
+                        "store_id": "9485"
+                    }
+                ],
+                "llc_n": "Salts",
+                "sp": "25.00",
+                "base_unit": "kg",
+                "pop_rank": 0,
+                "all_prods": [],
+                "gift_msg": "",
+                "is_new": false,
+                "pack_desc": "Pouch",
+                "p_type": "veg",
+                "combo_skus": [
+                    1214917
+                ],
+                "attrs": {},
+                "store_ids": [],
+                "llc_s": "type=pc&slug=salts",
+                "j_offer_detail": {
+                    "d_avail": "true",
+                    "d_text": "11% OFF",
+                    "offer_entry_text": "Har Din Sasta!",
+                    "offer_comm_enabled": "true",
+                    "offer_available": "true",
+                    "sec_price": {},
+                    "icon": {}
+                },
+                "sale_info": {},
+                "sku": 241600,
+                "es_percent": 0,
+                "tlc_s": "foodgrains-oil-masala",
+                "offer_score": 0,
+                "p_img_url": "https://www.bigbasket.com/media/uploads/p/s/241600_7-tata-salt-iodized.jpg",
+                "absolute_url": "/pd/241600/tata-salt-iodized-1-kg-pouch/",
+                "display_order": 0,
+                "dis_val": "11",
+                "mrp": "28.00",
+                "p_brand": "Tata Salt",
+                "additional_info": {
+                    "per_unit_pack_selector": true,
+                    "per_unit_pd_page": true,
+                    "per_unit_listing_page": true,
+                    "other_app_listing": true,
+                    "other_app_pd": true
+                },
+                "dis_t": "P",
+                "rating_info": {
+                    "rating_count": 31271,
+                    "avg_rating": 4.2,
+                    "sku_id": 40081603,
+                    "review_count": 225
+                },
+                "es_amt": 0,
+                "w": "1 kg",
+                "usp": "",
+                "pc_n": "Salts",
+                "tlc_n": "Foodgrains, Oil & Masala",
+                "p_promo_info": {},
+                "is_bby": null,
+                "p_desc": "Vacuum Evaporated Iodised Salt - Helps Mental Development",
+                "base_price": "25.00"
+            }
+        ]
+    }
+}
