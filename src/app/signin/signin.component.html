@@ -1,0 +1,34 @@
+<div class="container mt-5 w-50 shadow">
+  <form [formGroup]="signinData" (ngSubmit)="save()">
+    <div class="mb-3">
+      <!-- <label for="user" class="form-label">UserName</label> -->
+      <input type="text" class="form-control " id="userId" formControlName="user" placeholder="User name">
+    </div>
+
+    <div class="mb-3">
+      <!-- <label for="exampleInputEmail1" class="form-label">Email address</label> -->
+      <input type="email" class="form-control" placeholder="Email Address" id="exampleInputEmail1"
+        formControlName="email">
+    </div>
+    <div class="mb-3">
+      <!-- <label for="exampleInputPassword1" class="form-label">Password</label> -->
+      <input type="password" class="form-control" placeholder="Password" id="exampleInputPassword1"
+        formControlName="pass">
+    </div>
+    <div class="input-group mb-3">
+      <input type="text" class="form-control" placeholder="Mobile no" formControlName="mobno">
+      <span class="input-group-text" id="basic-addon2" *ngIf="getOtp"><button type="button"  (click)="getotp()">Get Otp</button></span>
+    </div>
+
+    <div class="input-group mb-3" *ngIf="verifyOtp">
+      <input type="text" class="form-control" placeholder="Enter Otp" formControlName="verifyOtp">
+      <span class="input-group-text" id="basic-addon2"><button type="button"  (click)="verifyotp()">Verify
+          Otp</button></span>
+    </div>
+    <div *ngIf="verifyOtp">Otp is Valid For {{otptimer}}</div>
+
+    <button type="submit"  class="btn btn-primary">Submit</button>
+    <button type="button" class="btn btn-primary" routerLink="/home">Back</button>
+
+  </form>
+</div>

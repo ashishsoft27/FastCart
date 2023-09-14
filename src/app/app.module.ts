@@ -11,7 +11,15 @@ import { FooterComponent } from './shared/component/footer/footer.component';
 import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
 import { CarouselModule } from 'ngx-owl-carousel-o';
 import { TopDealComponent } from './component/home/top-deal/top-deal.component';
-import {HttpClientModule} from '@angular/common/http'
+import { ProductByCategiryComponent } from './product-by-categiry/product-by-categiry.component';
+import { SigninComponent } from './signin/signin.component';
+import { LoginnewComponent } from './loginnew/loginnew.component';
+import { FormsModule,ReactiveFormsModule } from '@angular/forms';
+import { HttpHeaders, HttpClient, HttpClientModule, HTTP_INTERCEPTORS } from '@angular/common/http';
+import { TopofferComponent } from './component/home/topoffer/topoffer.component';
+import { MyorderComponent } from './userdata/myorder/myorder.component';
+import { MydataComponent } from './userdata/mydata/mydata.component';
+
 
 @NgModule({
   declarations: [
@@ -19,6 +27,15 @@ import {HttpClientModule} from '@angular/common/http'
     HomeComponent,
     NavbarComponent,
     TopDealComponent,
+    ProductByCategiryComponent,
+    SigninComponent,
+    LoginnewComponent,
+    TopofferComponent,
+    MyorderComponent,
+    MydataComponent,
+    
+    
+    
     
     
   ],
@@ -28,7 +45,9 @@ import {HttpClientModule} from '@angular/common/http'
     SharedModule,
     BrowserAnimationsModule,
     CarouselModule,
-    HttpClientModule
+    HttpClientModule,
+    FormsModule,
+    ReactiveFormsModule
   ],
   exports: [
   
