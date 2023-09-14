@@ -1,0 +1,19 @@
+.demo1{
+    border: 1px solid black ;
+    border-radius: 20px;
+    padding: 50px;
+    margin-left: 15px;
+    background-color: red;
+    color: black;
+    font-size: xx-large;
+    
+    background: linear-gradient(to bottom,red 50%,white 50%);
+    
+}
+.demo2:hover{
+    box-shadow: 2px 5px 5px 2px;
+}
+
+.cursor{
+    cursor: pointer;
+}

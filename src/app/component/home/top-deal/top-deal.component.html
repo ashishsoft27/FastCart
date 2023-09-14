@@ -1,26 +1,35 @@
-<!-- <div class="container mt-2">
-  <div class="row">
-    <div class="card" style="width: 18rem;" *ngFor="let item of topDealsList">
-    <img [src]="item.p_img_url" class="card-img-top" alt="" >
-    <div class="card-body">
-      <h5 class="card-title">Card title</h5>
-      <p class="card-text"> some quick example text to build</p>
-      <a href="#" class="btn-btn-primary">go somewhere</a>
-    </div>
-    </div>
-  </div>
-</div> -->
 <div class="container mt-2">
-  <div>Some tags before</div>
+  
   <owl-carousel-o [options]="customOptions">
 
     <ng-container *ngFor="let item of topDealsList;let i=index">
       <ng-template carouselSlide [id]="'i'">
-        <div class="card" style="width: 16rem;">
-          <img [src]="item.p_img_url" class="card-img-top p-3 border" alt="">
+        <div class="card cursor demo2" style="width: 16rem; height: 30rem;">
+          <img [src]="item.p_img_url" class="card-img-top p-3 border " alt="">
           <div class="card-body">
             <h5 class="card-title">{{item.llc_n}}</h5>
-            <p class="card-text"> {{item.p_desc}}</p>
+            
+            <div>
+              <div class="dropdown m-1">
+                <button class="btn btn-secondary dropdown-toggle" type="button" data-bs-toggle="dropdown"
+                  aria-expanded="false">
+                  {{item.w}}-{{item.sp}}
+                </button>
+                <ul class="dropdown-menu">
+                  <li *ngFor="let qty of item.all_prods " (click)="settotalPrice(i,qty)"> <a>{{qty.sp}}--{{qty.w}}</a>
+                  </li>
+
+                </ul>
+              </div>
+              <p class="card-text">{{item.p_desc}}</p>
+            </div>
+            <p><span class="fs-12 ">Mrp&nbsp;<span
+                  class="fs-10 text-decoration-line-through">rs&nbsp;{{item.dis_val}}</span></span> &nbsp;<span
+                class=" ms-2 fs-14">Rs&nbsp;{{item.sp}}</span></p>
+            <p class="mt-2">
+              <span><input type="text" class="mx-1 w-25 px-2"><a class="mx-2 border fs-6 px-3 add-btn">Add</a></span>
+            </p>
+          <p class="card-text"> {{item.sp}}</p>
             <a href="#" class="btn-btn-primary">go somewhere</a>
           </div>
         </div>
@@ -28,5 +37,6 @@
     </ng-container>
 
   </owl-carousel-o>
-  <div>Some tags after</div>
+  
 </div>
+<!-- <button type="button" class="btn btn-info" routerLink="/loginnew">show More</button> -->

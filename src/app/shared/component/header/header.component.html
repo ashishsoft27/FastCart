@@ -1,4 +1,4 @@
-<div class="container-fluid text-center bg-success " style="height: 50px;">
+<!-- <div class="container-fluid text-center bg-success " style="height: 50px;">
     <div class="row">
         <div class="col">
 
@@ -14,10 +14,47 @@
             USD
         </div>
     </div>
+</div> -->
+
+<div class="container-fluid text-center bg-success">
+    <div class="row">
+        <nav class="navbar navbar-expand-lg bg-body-success">
+            <div class="container-fluid">
+                <a class="navbar-brand" href="#">Navbar</a>
+                <button class="navbar-toggler" type="button" data-bs-toggle="collapse"
+                    data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent"
+                    aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+                <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                    <div class="col-6" style="color: white;padding-top: 13px;">
+                        <marquee direction="up" [scrollDelay]="300">Welcome to fastkart! wrap new offers/gift every
+                            single day on
+                            weekend.New Coupon Code:</marquee>
+                    </div>
+                    <!-- <div  class="col-2 navbar text-center" style="color: white; padding-top: 13px;">
+                        English
+                    </div> -->
+                    <div class="col-2 navbar text-center" style="color: white; padding-top: 13px; "
+                        [ngClass]="userName=='' ? 'classDemo' : 'classDemo1'">
+                        <span class="demo2"> Welcome {{userName}}</span>
+                    </div>
+                    <!-- <div class="col-2 navbar text-center" style="color: white; padding-top: 13px;" *ngIf="userName==''">
+                        <button type="button" routerLink="loginnew"><i class="bi bi-person"></i></button>
+                    </div>
+                    <div class="col-2 navbar text-center" style="color: white;padding-top: 13px; padding-right: 100px;"
+                        *ngIf="userName!=''">
+                        <button type="button" (click)="logout()">LogOut</button>
+                    </div> -->
+                </div>
+            </div>
+        </nav>
+    </div>
 </div>
 
-<!-- <div class="container text-center "> -->
-<!-- second navline -->
+
+
+
 <div class="container text-center mt-3 " style="height: 20px;">
     <div class="row">
         <div class="col" style="font-size: xx-large;">
@@ -40,52 +77,22 @@
             <i class="bi bi-telephone-outbound"></i>&nbsp;&nbsp;|&nbsp;
             <i class="bi bi-heart"></i>&nbsp;&nbsp;|&nbsp;
             <i class="bi bi-cart"></i>&nbsp;&nbsp;|&nbsp;
-            <i class="bi bi-person"></i>
+            <i class="bi bi-person" id="iddata">
+                <ng-container *ngIf="userName; then userblock;else loginblock" class="cursor"></ng-container>
+                <ng-template #userblock>
+                    <ul class="list-group1">
+                        <li><a routerLink="myorder"> My Order</a></li>
+                        <li><a routerLink="mydata"> My Details</a></li>
+                        <li><a (click)="logout()">Logout</a></li>
+                    </ul>
+                </ng-template>
+                <ng-template #loginblock>
+                    <ul class="list-group1" >
+                        <li><a routerLink="/loginnew">Login</a></li>
+                        <li> <a routerLink="/signin">New User</a></li>
+                    </ul>
+                </ng-template>
+            </i>
         </div>
     </div>
 </div>
-
-<!-- <div class="container text-center mt-5 " style="height: 20px;">
-    <div class="row">
-
-        <div class="dropdown col">
-            <button class=" btn btn-success dropdown-toggle" type="button" data-bs-toggle="dropdown"
-                aria-expanded="false">
-                <i class="bi bi-menu-button"></i> All Categories
-            </button>
-            <ul class="dropdown-menu">
-                <li><a class="dropdown-item" href="#"></a></li>
-                <li><a class="dropdown-item" href="#">Another action</a></li>
-                <li><a class="dropdown-item" href="#">Something else here</a></li>
-            </ul>
-        </div>
-
-
-        <div class="col-7" style="display: inline">
-
-            <span class="col" id="id1">Home <i class="bi bi-app"></i>
-                <ul class="list-group">
-                    <li class="list-group-item"><a>Ashish</a></li>
-                    <li class="list-group-item"><a>Kajal</a></li>
-                    <li class="list-group-item"><a>Manisha</a></li>
-                </ul>
-            </span>&nbsp;
-
-            <span class="col">Shop <i class="bi bi-app"></i></span>&nbsp;
-            <span class="col">Product <i class="bi bi-app"></i></span>&nbsp;
-            <span class="col">Mega Menu <i class="bi bi-app"></i></span>&nbsp;
-            <span class="col">Blog <i class="bi bi-app"></i></span>&nbsp;
-            <span class="col">Pages <i class="bi bi-app"></i></span>&nbsp;
-            <span class="col">Seller <i class="bi bi-app"></i></span>&nbsp;
-        </div>
-
-        <div class="col-2">
-            <button class=" btn btn-light" style="color: green;" type="button" data-bs-toggle="dropdown"
-                aria-expanded="false">
-                <i class="bi bi-lightning-charge" style="color: green;"></i> Deal Today
-            </button>
-        </div>
-    </div>
-</div> -->
-
-

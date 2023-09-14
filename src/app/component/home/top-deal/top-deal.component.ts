@@ -24,6 +24,14 @@ constructor(private service:HttpServiceService){}
       ()=>{}
     )
   }
+
+  settotalPrice(index:number,qty:any){
+    this.topDealsList[index].w=qty.w;
+    this.topDealsList[index].sp=qty.sp;
+    this.topDealsList[index].dis_val=qty.dis_val
+  }
+
+
   customOptions: OwlOptions = {
     loop: true,
     mouseDrag: false,
