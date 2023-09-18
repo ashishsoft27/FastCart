@@ -27,9 +27,9 @@
                   class="fs-10 text-decoration-line-through">rs&nbsp;{{item.dis_val}}</span></span> &nbsp;<span
                 class=" ms-2 fs-14">Rs&nbsp;{{item.sp}}</span></p>
             <p class="mt-2">
-              <span><input type="text" class="mx-1 w-25 px-2"><a class="mx-2 border fs-6 px-3 add-btn">Add</a></span>
+              <span><input type="text"  class="mx-1 w-25 px-2"  [(ngModel)]="item.quantity"  (ngModelChange)="total(item.sp,i)"><button type="button"  class="mx-2 border fs-6 px-3 add-btn"  (click)="addToCart(i)" >Add</button></span>
             </p>
-          <p class="card-text"> {{item.sp}}</p>
+          <p  class="card-text" *ngIf="item.quantity"> Rs-{{item.totalprize}}</p>
             <a href="#" class="btn-btn-primary">go somewhere</a>
           </div>
         </div>

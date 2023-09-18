@@ -20,14 +20,14 @@
     <div class="row">
         <nav class="navbar navbar-expand-lg bg-body-success">
             <div class="container-fluid">
-                <a class="navbar-brand" href="#">Navbar</a>
+                <a class="navbar-brand" href="#" (click)="remove()">Home</a>
                 <button class="navbar-toggler" type="button" data-bs-toggle="collapse"
                     data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent"
                     aria-expanded="false" aria-label="Toggle navigation">
                     <span class="navbar-toggler-icon"></span>
                 </button>
                 <div class="collapse navbar-collapse" id="navbarSupportedContent">
-                    <div class="col-6" style="color: white;padding-top: 13px;">
+                    <div class="col-9" style="color: white;padding-top: 13px;">
                         <marquee direction="up" [scrollDelay]="300">Welcome to fastkart! wrap new offers/gift every
                             single day on
                             weekend.New Coupon Code:</marquee>
@@ -36,7 +36,7 @@
                         English
                     </div> -->
                     <div class="col-2 navbar text-center" style="color: white; padding-top: 13px; "
-                        [ngClass]="userName=='' ? 'classDemo' : 'classDemo1'">
+                        *ngIf="userName">
                         <span class="demo2"> Welcome {{userName}}</span>
                     </div>
                     <!-- <div class="col-2 navbar text-center" style="color: white; padding-top: 13px;" *ngIf="userName==''">
@@ -76,13 +76,13 @@
         <div class="col mt-2" style="display: flexbox;" style="padding-right: 0px;">
             <i class="bi bi-telephone-outbound"></i>&nbsp;&nbsp;|&nbsp;
             <i class="bi bi-heart"></i>&nbsp;&nbsp;|&nbsp;
-            <i class="bi bi-cart"></i>&nbsp;&nbsp;|&nbsp;
+            <i class="bi bi-cart" routerLink="/cart"></i>{{orderCount}}&nbsp;&nbsp;|&nbsp;
             <i class="bi bi-person" id="iddata">
                 <ng-container *ngIf="userName; then userblock;else loginblock" class="cursor"></ng-container>
                 <ng-template #userblock>
                     <ul class="list-group1">
-                        <li><a routerLink="myorder"> My Order</a></li>
-                        <li><a routerLink="mydata"> My Details</a></li>
+                        <li><a routerLink="/myorder"> My Order</a></li>
+                        <li><a routerLink="/mydata"> My Details</a></li>
                         <li><a (click)="logout()">Logout</a></li>
                     </ul>
                 </ng-template>

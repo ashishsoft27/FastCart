@@ -1,0 +1,34 @@
+<div class="container w-50 mt-3">
+    <ng-container *ngIf="order; then thenblock; else elseblock"></ng-container>
+        <ng-template #thenblock>
+            <div class="row">
+                <table class="table table-bordered">
+                    <thead>
+                        <tr>
+                            <th>Product name</th>
+                            <th>Product Prize</th>
+                            <th>Product Quantity</th>
+                            <th>Product Details</th>
+                            <th>Product Total Prize</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr *ngFor="let item of order; let i=index">
+                            <td>{{item.productName}}</td>
+                            <td>{{item.productPrize}}</td>
+                            <td>{{item.productQuantity}}</td>
+                            <td>{{item.productPack}}</td>
+                            <td>{{item.productTotalPrize}}</td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+        </ng-template>
+        <ng-template #elseblock>
+            <h5 style="border: 1px solid black;background: pink; padding: 20px; margin-top: 55px;">No order details Present</h5>
+        </ng-template>
+        <button type="button" class="btn btn-primary" routerLink="/home" >Add Product</button>
+</div>
+<!-- <div>
+    <button type="button" class="btn btn-primary" routerLink="/home" >Add Product</button>
+</div> -->

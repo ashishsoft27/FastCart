@@ -26,4 +26,9 @@ export class HttpServiceService {
     const url=this.baseUrl+endpoint
     return this.http.post(url,body)
   }
+
+  putDataToServer(endpoint:string,body:any){
+    const url=this.baseUrl+endpoint
+    return this.http.put(url,body)
+  }
 }

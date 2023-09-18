@@ -1,0 +1,99 @@
+<div class="container mt-5">
+    <div class="row">
+        <div class="col-3" style="border-right: 1px solid gray;">
+            <h2 click>My Account</h2>
+            <h4>Edit Details</h4>
+            <h6 class="cursor" (click)="editData()">-Edit Profile</h6>
+            <h6 class="cursor">-Delivery Address</h6>
+            <h6 class="cursor">-Email Address</h6>
+            <h4>Shop From</h4>
+            <h6 class="cursor">-Small Basket</h6>
+            <h6 class="cursor">-Shoping list </h6>
+            <h4>My Orders</h4>
+            <button type="button " class="btn btn-primary" routerLink="/home">Home</button>
+
+        </div>
+        <div class="col-9">
+
+            <div style="border-bottom: 1px solid gray; padding-bottom: 100px;" *ngIf="display==false">
+                <h3>My Profile</h3>
+                <span *ngFor="let item of  myData; let i=index">
+                    <h5>{{item.user}}</h5>
+                    <h5>{{item.email}}</h5>
+                    <h5>{{item.mobno}}</h5>
+                </span>
+            </div>
+            <div *ngIf="display==true">
+                <div class="container w-50 mt-3">
+                    <div class="row">
+                        <form [formGroup]="orderForm" (ngSubmit)="update()">
+                            <div class="mb-3">
+                                <label for="id1" class="form-label">Username</label>
+                                <input type="text" class="form-control" id="id1" readonly  formControlName="user">
+                            </div>
+                            <div class="mb-3">
+                                <label for="id2" class="form-label">Email</label>
+                                <input type="text" class="form-control" id="id2" formControlName="email">
+                            </div>
+                            
+                            <div class="input-group mb-3">
+                                <span class="input-group-text"><input type="text" class="form-control" placeholder="Mobile no" formControlName="mobno">
+                                <input type="checkbox"  name="check" id="check" [checked]="flag" ></span>
+                                <span class="input-group-text" id="basic-addon2" *ngIf="getotp"><button type="button"  (click)="getOtp()">Get Otp</button></span>
+                              </div>
+                          
+                              <div class="input-group mb-3" *ngIf="verifyotp">
+                                <input type="text" class="form-control" placeholder="Enter Otp" formControlName="verifyOtp">
+                                <span class="input-group-text" id="basic-addon2"><button type="button"  (click)="verify()">Verify
+                                    Otp</button></span>
+                              </div>
+                              <div *ngIf="verifyotp">Otp is Valid For {{otp}}</div>
+
+                            <button type="submit" class="btn btn-primary" >Submit</button>&nbsp;&nbsp;
+                            <button type="button" class="btn btn-secondary" (click)="cancel()">Cancel</button>
+
+                        </form>
+                    </div>
+                </div>
+            </div>
+
+            <div class="row" style="border: 1px solid gray;">
+                <div class="col-8" style="border-right: 1px solid gray">
+                    <h5>My orders</h5>
+                    <div class="container w-50 mt-3">
+                        <ng-container *ngIf="orderData; then thenblock; else elseblock"></ng-container>
+                        <ng-template #thenblock>
+                            <table class="table table-bordered">
+                                <thead>
+                                    <tr>
+                                        <th>Product name</th>
+                                        <th>Product Prize</th>
+                                        <th>Product Quantity</th>
+                                        <th>Product Details</th>
+                                        <th>Product Total Prize</th>
+                                    </tr>
+                                </thead>
+                                <tbody>
+                                    <tr *ngFor="let item of orderData; let i=index">
+                                        <td>{{item.productName}}</td>
+                                        <td>{{item.productPrize}}</td>
+                                        <td>{{item.productQuantity}}</td>
+                                        <td>{{item.productPack}}</td>
+                                        <td>{{item.productTotalPrize}}</td>
+                                    </tr>
+                                </tbody>
+                            </table>
+                        </ng-template>
+                        <ng-template #elseblock>
+                            <h5 style="border: 1px solid black;background: pink;padding: 30px; margin-top: 55px;">
+                                No order details Present</h5>
+                        </ng-template>
+                    </div>
+                </div>
+                <div class="col-4" style="padding: 10px 10px 200px 50px ">
+                    <h3>MyWallet</h3>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
