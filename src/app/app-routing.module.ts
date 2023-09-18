@@ -6,8 +6,9 @@ import { ProductByCategiryComponent } from './product-by-categiry/product-by-cat
 import { LoginnewComponent } from './loginnew/loginnew.component';
 import { SigninComponent } from './signin/signin.component';
 import { authGuardGuard } from './core/auth-guard.guard';
-import { MyorderComponent } from './userdata/myorder/myorder.component';
-import { MydataComponent } from './userdata/mydata/mydata.component';
+import { MyorderComponent } from './component/home/myorder/myorder.component';
+import { MydataComponent } from './component/home/mydata/mydata.component';
+import { CartComponent } from './component/home/cart/cart.component';
 
 
 const routes: Routes = [
@@ -16,8 +17,9 @@ const routes: Routes = [
                         {path:'product-by-categiry',component:ProductByCategiryComponent,canActivate:[authGuardGuard]},
                         {path:'loginnew',component:LoginnewComponent},
                         {path:'signin',component:SigninComponent},
-                        {path:'myorder',component:MyorderComponent},
-                        {path:'mydata',component:MydataComponent},
+                        {path:'myorder',component:MyorderComponent,canActivate:[authGuardGuard]},
+                        {path:'mydata',component:MydataComponent,canActivate:[authGuardGuard]},
+                        {path:'cart',component:CartComponent},
                         {path:'',redirectTo:'home',pathMatch:'full'}
                       ];
 

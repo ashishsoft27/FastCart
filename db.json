@@ -13859,20 +13859,28 @@
   ],
   "users": [
     {
-      "user": "Ashish Thopate",
-      "email": "mike@gmail.com",
-      "pass": "ashis",
-      "mobno": "99999888800",
+      "user": "Ajay Pawar",
+      "email": "ajaypawar@gmail.com",
+      "pass": "ajay",
+      "mobno": "9087654321",
       "verifyOtp": "true",
       "id": 1
     },
     {
-      "user": "Ajay Pawar",
-      "email": "ajay@gmail.com",
-      "pass": "ajay",
-      "mobno": "9087654321",
-      "verifyOtp": "true",
+      "user": "Ashish Thopate",
+      "email": "ashishthopate27@gmail.com",
+      "pass": "ashish",
+      "mobno": "8308057394",
+      "verifyOtp": "188897",
       "id": 2
+    },
+    {
+      "user": "ashvinijagtap",
+      "email": "ashvini@gmail.com",
+      "pass": "ashvini",
+      "mobno": "8308057394",
+      "verifyOtp": "true",
+      "id": 3
     }
   ]
 }

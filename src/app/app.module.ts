@@ -17,8 +17,10 @@ import { LoginnewComponent } from './loginnew/loginnew.component';
 import { FormsModule,ReactiveFormsModule } from '@angular/forms';
 import { HttpHeaders, HttpClient, HttpClientModule, HTTP_INTERCEPTORS } from '@angular/common/http';
 import { TopofferComponent } from './component/home/topoffer/topoffer.component';
-import { MyorderComponent } from './userdata/myorder/myorder.component';
-import { MydataComponent } from './userdata/mydata/mydata.component';
+import { MyorderComponent } from './component/home/myorder/myorder.component';
+import { MydataComponent } from './component/home/mydata/mydata.component';
+import { EditUserComponent } from './component/home/edit-user/edit-user.component';
+import { CartComponent } from './component/home/cart/cart.component';
 
 
 @NgModule({
@@ -33,11 +35,8 @@ import { MydataComponent } from './userdata/mydata/mydata.component';
     TopofferComponent,
     MyorderComponent,
     MydataComponent,
-    
-    
-    
-    
-    
+    EditUserComponent,
+    CartComponent,
   ],
   imports: [
     BrowserModule,
@@ -47,7 +46,8 @@ import { MydataComponent } from './userdata/mydata/mydata.component';
     CarouselModule,
     HttpClientModule,
     FormsModule,
-    ReactiveFormsModule
+    ReactiveFormsModule,
+
   ],
   exports: [
   

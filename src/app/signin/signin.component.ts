@@ -60,7 +60,7 @@ submitData:boolean=false;
       if((response && response<31) || response==0){
         this.otptimer=30-response
         
-      }
+      }  
       else{
         this.sub.unsubscribe()
         this.verifyOtp=false;
@@ -75,7 +75,7 @@ submitData:boolean=false;
   verifyotp(){
     if(this.signinData.get('verifyOtp')?.value==this.otp){
       console.log("Valid User")
-      this.getOtp=true;
+      this.getOtp=false;
       this.verifyOtp=false
     this.signinData.get('verifyOtp')?.setValue("true")
       this.sub.unsubscribe();
